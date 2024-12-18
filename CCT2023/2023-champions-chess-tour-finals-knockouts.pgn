@@ -1,0 +1,1597 @@
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.13"]
+[Round "1.1.1"]
+[White "Carlsen, Magnus"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "1503014"]
+[BlackFideId "2020009"]
+[WhiteElo "2818"]
+[BlackElo "2762"]
+[WhiteTeam "NOR"]
+[BlackTeam "USA"]
+[WhiteClock "0:00:13"]
+[BlackClock "0:00:13"]
+[Variant "Standard"]
+
+1. e4 { [%eval 0.31] } 1... e5 { [%eval 0.24] } 2. Nf3 { [%eval 0.24] } 2...
+Nc6 { [%eval 0.26] } 3. Bb5 { [%eval 0.22] } 3... a6 { [%eval 0.32] } 4. Ba4
+{ [%eval 0.26] } 4... Nf6 { [%eval 0.33] } 5. O-O { [%eval 0.32] } 5... Bc5
+{ [%eval 0.54] } 6. c3 { [%eval 0.54] } 6... b5 { [%eval 0.38] } 7. Bb3
+{ [%eval 0.43] } 7... d6 { [%eval 0.46] } 8. d4 { [%eval 0.46] } 8... Bb6
+{ [%eval 0.49] } 9. Be3 { [%eval 0.28] } 9... O-O { [%eval 0.21] } 10. Nbd2
+{ [%eval 0.23] } 10... h6 { [%eval 0.37] } 11. h3 { [%eval 0.37] } 11... Re8
+{ [%eval 0.37] } 12. a3 { [%eval -0.11] } 12... Rb8 { [%eval 0.22] } 13. Bc2
+{ [%eval 0.28] } 13... a5 { [%eval 0.31] } 14. Re1 { [%eval 0.15] } 14... a4
+{ [%eval 0.17] } 15. Bd3 { [%eval 0.15] } 15... Bd7 { [%eval 0.13] } 16. Qe2
+{ [%eval 0.16] } 16... exd4 { [%eval 0.18] } 17. cxd4 { [%eval 0.11] } 17...
+Ne7 { [%eval 0.17] } 18. Rac1 { [%eval 0.04] } 18... Ng6 { [%eval 0.0] } 19.
+Qf1 { [%eval -0.04] } 19... Ba5 { [%eval 0.0] } 20. Red1 { [%eval -0.0] } 20...
+c6 { [%eval 0.02] } 21. e5 { [%eval -0.07] } 21... Nd5 { [%eval -0.03] } 22.
+Bxg6 { [%eval -0.03] } 22... fxg6 { [%eval -0.07] } 23. Ne4 { [%eval -0.02] }
+23... Rf8 { [%eval 0.55] } 24. Nxd6 { [%eval -0.0] } 24... Bxh3 { [%eval 1.0] }
+25. gxh3 { [%eval 0.66] } 25... Rxf3 { [%eval 0.44] } 26. Qg2 { [%eval 0.46] }
+26... Nxe3 { [%eval 1.99] } 27. Qxf3 { [%eval 0.13] } 27... Nxd1
+{ [%eval 0.05] } 28. Rxd1 { [%eval 0.06] } 28... Bc7 { [%eval 0.03] } 29. Qxc6
+{ [%eval 0.01] } 29... Bxd6 { [%eval 0.0] } 30. Qd5+ { [%eval -0.0] } 30... Kh7
+{ [%eval 0.0] } 31. exd6 { [%eval -0.0] } 31... Qd7 { [%eval 0.0] } 32. Kg2
+{ [%eval -0.0] } 32... Rb6 { [%eval 0.0] } 33. Qe4 { [%eval -0.0] } 33... Rxd6
+{ [%eval 0.0] } 34. d5 { [%eval -0.0] } 34... Rf6 { [%eval 0.0] } 35. Rd3
+{ [%eval -0.0] } 35... Rd6 { [%eval 0.0] } 36. Qe5 { [%eval -0.0] } 36... Qd8
+{ [%eval 0.0] } 37. Kf1 { [%eval -0.0] } 37... Qc7 { [%eval 0.0] } 38. Rc3
+{ [%eval -0.0] } 38... Qd7 { [%eval 0.0] } 39. Rd3 { [%eval -0.0] } 39... Qd8
+{ [%eval 0.0] } 40. Ke2 { [%eval -0.0] } 40... Qb6 { [%eval 0.0] } 41. Qd4
+{ [%eval -0.0] } 41... Qb7 { [%eval 0.0] } 42. Kd2 { [%eval -0.0] } 42... Qf7
+{ [%eval 0.0] } 43. Kc2 { [%eval -0.0] } 43... Rf6 { [%eval 0.0] } 44. f3
+{ [%eval -0.0] } 44... Qc7+ { [%eval 0.0] } 45. Kb1 { [%eval -0.0] } 45... Qd6
+{ [%eval 0.0] } 46. Ka2 { [%eval -0.0] } 46... Rf4 { [%eval 0.0] } 47. Qe3
+{ [%eval -0.07] } 47... b4 { [%eval -0.07] } 48. axb4 { [%eval -0.08] } 48...
+Rxb4 { [%eval -0.09] } 49. Qd2 { [%eval -0.15] } 49... Rb8 { [%eval 0.0] } 50.
+Rd4 { [%eval -0.0] } 50... Rb3 { [%eval 0.0] } 51. Rd3 { [%eval -0.0] } 51...
+Rb8 { [%eval 0.0] } 52. Rd4 { [%eval -0.05] } 52... Rb5 { [%eval 0.0] } 53. h4
+{ [%eval -0.0] } 53... h5 { [%eval 0.0] } 54. Qd3 { [%eval -0.0] } 54... Rb3
+{ [%eval 0.0] } 55. Qd1 { [%eval -0.0] } 55... Qb6 { [%eval 0.0] } 56. Qd2
+{ [%eval -2.0] } 56... Rxf3 { [%eval -2.59] } 57. Rd3 { [%eval -3.09] } 57...
+Rf2 { [%eval -1.34] } 58. Qc3 { [%eval -1.49] } 58... Qd6 { [%eval -1.43] } 59.
+Qc6 { [%eval -3.82] } 59... Qh2 { [%eval -2.31] } 60. Qb6 { [%eval -4.48] }
+60... Qxh4 { [%eval -4.67] } 61. Rd4 { [%eval -5.02] } 61... Qg3
+{ [%eval -3.86] } 62. Qb4 { [%eval -4.04] } 62... a3 { [%eval -3.49] } 63. Qxa3
+{ [%eval -4.28] } 63... Qe5 { [%eval -1.97] } 64. Qd3 { [%eval -1.96] } 64...
+Qd6 { [%eval -1.96] } 65. Ra4 { [%eval -3.79] } 65... Rf5 { [%eval -2.03] } 66.
+Rd4 { [%eval -2.04] } 66... Rf8 { [%eval -2.02] } 67. b4 { [%eval -2.96] }
+67... Rf2+ { [%eval -2.38] } 68. Kb3 { [%eval -2.5] } 68... Qf6
+{ [%eval -2.16] } 69. Qc4 { [%eval -2.57] } 69... Rf3+ { [%eval -2.59] } 70.
+Rd3 { [%eval -3.19] } 70... Rf2 { [%eval -2.53] } 71. d6 { [%eval -4.4] } 71...
+Qb2+ { [%eval 0.0] } 72. Ka4 { [%eval -0.0] } 72... Qa1+ { [%eval 0.0] } 73.
+Kb5 { [%eval -0.0] } 73... Qa8 { [%eval 0.0] } 74. d7 { [%eval -0.0] } 74...
+Rf5+ { [%eval 0.0] } 75. Kb6 { [%eval -11.96] } 75... Qb8+ { [%eval -99.8] }
+76. Ka6 { [%eval -99.85] } 76... Qa8+ { [%eval -99.82] } 77. Kb6
+{ [%eval -99.82] } 77... Rf6+ { [%eval -6.54] } 78. Kc5 { [%eval -12.28] }
+78... Rc6+ { [%eval -7.35] } 79. Kd4 { [%eval -7.8] } 79... Rxc4+
+{ [%eval -4.06] } 80. Kxc4 { [%eval -4.96] } 80... Qd8 { [%eval -5.2] } 81. b5
+{ [%eval -5.6] } 81... Qc7+ { [%eval 0.0] } 82. Kb3 { [%eval -0.0] } 82... Qd8
+{ [%eval 0.0] } 83. Ka4 { [%eval -5.7] } 83... h4 { [%eval -5.72] } 84. b6
+{ [%eval -5.81] } 84... h3 { [%eval 0.0] } 85. Rxh3+ { [%eval -0.0] } 85... Kg8
+{ [%eval 0.0] } 86. Rd3 { [%eval -0.0] } 86... Kf7 { [%eval 0.0] } 87. b7
+{ [%eval -0.0] } 87... Ke7 { [%eval 0.0] } 88. Kb5 { [%eval -0.0] } 88... g5
+{ [%eval 0.0] } 89. Kc6 { [%eval -0.0] } 89... g4 { [%eval 0.0] } 90. Re3+
+{ [%eval -0.0] } 90... Kf6 { [%eval 99.89] } 91. Re8 { [%eval 99.91] } 1-0
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.13"]
+[Round "1.1.1"]
+[White "So, Wesley"]
+[Black "Abdusattorov, Nodirbek"]
+[Result "1-0"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "5202213"]
+[BlackFideId "14204118"]
+[WhiteElo "2737"]
+[BlackElo "2727"]
+[WhiteTeam "USA"]
+[BlackTeam "UZB"]
+[WhiteClock "0:00:10"]
+[BlackClock "0:00:10"]
+[Variant "Standard"]
+
+1. e4 { [%eval 0.31] } 1... e5 { [%eval 0.24] } 2. Nf3 { [%eval 0.24] } 2...
+Nc6 { [%eval 0.26] } 3. Bb5 { [%eval 0.22] } 3... a6 { [%eval 0.32] } 4. Ba4
+{ [%eval 0.26] } 4... Nf6 { [%eval 0.33] } 5. O-O { [%eval 0.32] } 5... Be7
+{ [%eval 0.34] } 6. d3 { [%eval 0.19] } 6... d6 { [%eval 0.3] } 7. c3
+{ [%eval 0.32] } 7... O-O { [%eval 0.29] } 8. Nbd2 { [%eval 0.24] } 8... b5
+{ [%eval 0.29] } 9. Bc2 { [%eval 0.26] } 9... d5 { [%eval 0.41] } 10. d4
+{ [%eval 0.27] } 10... Bg4 { [%eval 0.34] } 11. h3 { [%eval 0.31] } 11... Bh5
+{ [%eval 0.32] } 12. g4 { [%eval 0.29] } 12... Bg6 { [%eval 0.24] } 13. Nxe5
+{ [%eval 0.25] } 13... Nxe5 { [%eval 0.25] } 14. dxe5 { [%eval 0.23] } 14...
+Nxe4 { [%eval 0.22] } 15. Nxe4 { [%eval 0.2] } 15... dxe4 { [%eval 0.19] } 16.
+Qe2 { [%eval 0.13] } 16... Qd5 { [%eval 0.13] } 17. Rd1 { [%eval 0.19] } 17...
+Qc6 { [%eval 0.22] } 18. Bf4 { [%eval -0.0] } 18... Bc5 { [%eval 0.35] } 19.
+Bb3 { [%eval 0.37] } 19... Rad8 { [%eval 0.34] } 20. Rxd8 { [%eval 0.39] }
+20... Rxd8 { [%eval 0.38] } 21. Rd1 { [%eval 0.31] } 21... Rd3 { [%eval 0.24] }
+22. e6 { [%eval -0.0] } 22... Rxd1+ { [%eval 0.0] } 23. Qxd1 { [%eval -0.0] }
+23... fxe6 { [%eval -0.02] } 24. Qd8+ { [%eval -0.02] } 24... Kf7
+{ [%eval 0.0] } 25. h4 { [%eval -0.15] } 25... Be7 { [%eval -0.09] } 26. Qxc7
+{ [%eval -0.32] } 26... Qxc7 { [%eval -0.16] } 27. Bxc7 { [%eval -0.15] } 27...
+Bxh4 { [%eval -0.14] } 28. Bf4 { [%eval -0.37] } 28... Kf6 { [%eval -0.38] }
+29. a4 { [%eval -0.46] } 29... Be8 { [%eval -0.41] } 30. axb5 { [%eval -0.38] }
+30... Bxb5 { [%eval -0.36] } 31. c4 { [%eval -0.4] } 31... Bc6
+{ [%eval -0.42] } 32. Bc2 { [%eval -0.62] } 32... a5 { [%eval 0.64] } 33. b3
+{ [%eval -0.32] } 33... Bg5 { [%eval -0.36] } 34. Bc7 { [%eval -0.32] } 34...
+Bd2 { [%eval -0.34] } 35. Kh2 { [%eval -0.37] } 35... Be1 { [%eval -0.17] } 36.
+Bb6 { [%eval -0.34] } 36... Ke5 { [%eval -0.15] } 37. Kg3 { [%eval -0.34] }
+37... Bd2 { [%eval -0.31] } 38. Bc5 { [%eval -0.33] } 38... g6
+{ [%eval -0.25] } 39. Bb6 { [%eval -0.27] } 39... Kd6 { [%eval -0.24] } 40. Ba7
+{ [%eval -0.32] } 40... e5 { [%eval -0.3] } 41. Bb8+ { [%eval -0.47] } 41...
+Ke6 { [%eval -0.42] } 42. Bc7 { [%eval -0.61] } 42... Be1 { [%eval -0.26] } 43.
+Bb6 { [%eval -0.26] } 43... Bc3 { [%eval -0.2] } 44. Bc7 { [%eval -0.49] }
+44... Bd2 { [%eval -0.22] } 45. Bd1 { [%eval -0.22] } 45... Bf4+
+{ [%eval -0.19] } 46. Kh3 { [%eval -0.26] } 46... Bd2 { [%eval -0.2] } 47. Kg3
+{ [%eval -0.15] } 47... h6 { [%eval -0.19] } 48. Bc2 { [%eval -0.15] } 48...
+Bc3 { [%eval -0.15] } 49. Bd1 { [%eval -0.22] } 49... Kd7 { [%eval -0.22] } 50.
+Bb6 { [%eval -0.19] } 50... Ke6 { [%eval -0.14] } 51. Be3 { [%eval -0.19] }
+51... g5 { [%eval -0.16] } 52. Bb6 { [%eval -0.18] } 52... Kd6
+{ [%eval -0.12] } 53. Bc2 { [%eval -0.68] } 53... Be1 { [%eval -0.12] } 54. Ba7
+{ [%eval -0.09] } 54... Bd2 { [%eval -0.13] } 55. Bb6 { [%eval -0.42] } 55...
+Bc3 { [%eval -0.1] } 56. Bd1 { [%eval -0.09] } 56... Be8 { [%eval -0.06] } 57.
+Bc2 { [%eval -0.08] } 57... Bg6 { [%eval -0.08] } 58. Be3 { [%eval -0.09] }
+58... Bd4 { [%eval -0.07] } 59. Bd2 { [%eval -0.32] } 59... Bb6 { [%eval 0.0] }
+60. Bd1 { [%eval -0.0] } 60... Be8 { [%eval 0.0] } 61. Bc2 { [%eval -0.0] }
+61... Bg6 { [%eval 0.0] } 62. Bd1 { [%eval -0.0] } 62... e3 { [%eval 0.11] }
+63. fxe3 { [%eval -0.0] } 63... Bd3 { [%eval 0.0] } 64. Kf3 { [%eval -0.0] }
+64... e4+ { [%eval 0.35] } 65. Kf2 { [%eval 0.31] } 65... Kc6 { [%eval 0.23] }
+66. Bc3 { [%eval 0.19] } 66... Bd8 { [%eval 0.19] } 67. Bg7 { [%eval 0.18] }
+67... Be7 { [%eval 0.22] } 68. Bc3 { [%eval 0.1] } 68... Bb4 { [%eval 0.28] }
+69. Bg7 { [%eval 0.29] } 69... Be7 { [%eval 0.25] } 70. Bd4 { [%eval -0.0] }
+70... Bc5 { [%eval 0.0] } 71. Bc3 { [%eval -0.0] } 71... Bb4 { [%eval 0.0] }
+72. Bf6 { [%eval -0.0] } 72... Bd6 { [%eval 0.0] } 73. Bd8 { [%eval -0.0] }
+73... Bb4 { [%eval 0.0] } 74. Bf6 { [%eval -0.0] } 74... Bd6 { [%eval 0.0] }
+75. Bb2 { [%eval -0.0] } 75... Be7 { [%eval 0.19] } 76. Bg7 { [%eval 0.19] }
+76... Kc5 { [%eval 0.12] } 77. Bc3 { [%eval -0.0] } 77... Kb6 { [%eval 0.0] }
+78. Bd4+ { [%eval -0.0] } 78... Kc6 { [%eval 0.04] } 79. Bg7 { [%eval 0.09] }
+79... Kc5 { [%eval 0.11] } 80. Bxh6 { [%eval 0.07] } 80... Kb4 { [%eval 0.08] }
+81. Bg7 { [%eval 0.11] } 81... Bd8 { [%eval 0.07] } 82. Ke1 { [%eval 0.1] }
+82... a4 { [%eval 0.07] } 83. Bf8+ { [%eval 0.07] } 83... Kc3 { [%eval 0.11] }
+84. Bg7+ { [%eval 0.07] } 84... Kb4 { [%eval 0.09] } 85. bxa4 { [%eval 0.08] }
+85... Kxc4 { [%eval 0.08] } 86. Kf2 { [%eval 0.05] } 86... Kb4 { [%eval 0.08] }
+87. Be5 { [%eval 0.09] } 87... Kc4 { [%eval 0.08] } 88. a5 { [%eval -0.01] }
+88... Kb5 { [%eval 0.07] } 89. Bc3 { [%eval 0.06] } 89... Kc4 { [%eval 3.3] }
+90. a6 { [%eval 3.25] } 90... Bb6 { [%eval 3.2] } 91. Bf6 { [%eval 3.14] }
+91... Kd5 { [%eval 4.12] } 92. Bb3+ { [%eval 2.38] } 92... Kd6 { [%eval 2.45] }
+93. Bxg5 { [%eval 2.54] } 93... Bxa6 { [%eval 2.6] } 94. Kg3 { [%eval 1.94] }
+94... Bb7 { [%eval 3.16] } 95. Kf4 { [%eval 2.16] } 95... Bc7 { [%eval 3.67] }
+96. Bf6 { [%eval 3.65] } 96... Bd5 { [%eval 10.34] } 97. Be5+ { [%eval 13.58] }
+1-0
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.13"]
+[Round "1.1.2"]
+[White "Caruana, Fabiano"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "2020009"]
+[BlackFideId "1503014"]
+[WhiteElo "2762"]
+[BlackElo "2818"]
+[WhiteTeam "USA"]
+[BlackTeam "NOR"]
+[WhiteClock "0:00:10"]
+[BlackClock "0:00:12"]
+[Variant "Standard"]
+
+1. e4 { [%eval 0.31] } 1... c5 { [%eval 0.29] } 2. Nf3 { [%eval 0.3] } 2... Nc6
+{ [%eval 0.23] } 3. Bb5 { [%eval 0.28] } 3... g6 { [%eval 0.31] } 4. O-O
+{ [%eval 0.32] } 4... Bg7 { [%eval 0.32] } 5. Re1 { [%eval 0.11] } 5... e5
+{ [%eval 0.19] } 6. Bxc6 { [%eval 0.25] } 6... dxc6 { [%eval 0.29] } 7. a4
+{ [%eval 0.25] } 7... Qe7 { [%eval 0.22] } 8. Na3 { [%eval 0.24] } 8... Be6
+{ [%eval 0.29] } 9. d3 { [%eval 0.24] } 9... f6 { [%eval 0.24] } 10. Nc4
+{ [%eval 0.24] } 10... Bxc4 { [%eval 0.39] } 11. dxc4 { [%eval 0.39] } 11...
+Nh6 { [%eval 0.48] } 12. a5 { [%eval 0.24] } 12... Nf7 { [%eval 0.25] } 13. Be3
+{ [%eval 0.1] } 13... Bh6 { [%eval 0.09] } 14. Bxh6 { [%eval 0.12] } 14... Nxh6
+{ [%eval 0.05] } 15. Qe2 { [%eval 0.03] } 15... Nf7 { [%eval 0.0] } 16. g3
+{ [%eval -0.0] } 16... O-O { [%eval 0.01] } 17. Kg2 { [%eval -0.04] } 17... Kg7
+{ [%eval 0.04] } 18. h4 { [%eval -0.0] } 18... h5 { [%eval 0.0] } 19. c3
+{ [%eval -0.05] } 19... Rfd8 { [%eval 0.0] } 20. Qe3 { [%eval -0.0] } 20... Rd7
+{ [%eval 0.0] } 21. Red1 { [%eval -0.09] } 21... Rad8 { [%eval -0.03] } 22.
+Rxd7 { [%eval -0.04] } 22... Rxd7 { [%eval 0.0] } 23. Ne1 { [%eval -0.0] }
+23... Qd6 { [%eval 0.0] } 24. Nf3 { [%eval -0.0] } 24... Qd3 { [%eval 0.0] }
+25. Qxd3 { [%eval -0.0] } 25... Rxd3 { [%eval 0.0] } 26. Kf1 { [%eval -0.0] }
+26... Rd8 { [%eval 0.0] } 27. Ke2 { [%eval -0.0] } 27... Kf8 { [%eval 0.18] }
+28. b3 { [%eval -0.0] } 28... Nd6 { [%eval 0.33] } 29. Ke3 { [%eval 0.31] }
+29... Ke7 { [%eval 0.37] } 30. Ne1 { [%eval 0.37] } 30... f5 { [%eval 0.32] }
+31. f3 { [%eval 0.33] } 31... fxe4 { [%eval 0.32] } 32. fxe4 { [%eval 0.32] }
+32... Nf7 { [%eval 0.83] } 33. Nd3 { [%eval 0.81] } 33... g5 { [%eval 1.03] }
+34. hxg5 { [%eval 0.81] } 34... Rg8 { [%eval 0.81] } 35. Nxc5 { [%eval 0.76] }
+35... Rxg5 { [%eval 1.35] } 36. Kf2 { [%eval 1.36] } 36... Nd6 { [%eval 1.46] }
+37. Kf3 { [%eval 1.44] } 37... Rg8 { [%eval 1.58] } 38. Rh1 { [%eval 1.38] }
+38... Rg5 { [%eval 1.67] } 39. Rh2 { [%eval 1.2] } 39... Kf6 { [%eval 2.39] }
+40. a6 { [%eval 2.44] } 40... b6 { [%eval 2.88] } 41. Nd7+ { [%eval 3.22] }
+41... Ke6 { [%eval 3.37] } 42. Nb8 { [%eval 3.34] } 42... c5 { [%eval 3.4] }
+43. Nc6 { [%eval 3.59] } 43... Nc8 { [%eval 3.66] } 44. Rd2 { [%eval 3.58] }
+44... Rg7 { [%eval 3.68] } 45. Rh2 { [%eval 2.85] } 45... Kd6 { [%eval 3.1] }
+46. Nd8 { [%eval 3.46] } 46... Ke7 { [%eval 3.51] } 47. Rd2 { [%eval 3.62] }
+47... Rg6 { [%eval 3.7] } 48. Rd5 { [%eval 3.87] } 48... Rf6+ { [%eval 3.71] }
+49. Kg2 { [%eval 3.89] } 49... Rg6 { [%eval 4.08] } 50. Kh3 { [%eval 4.11] }
+50... Rg4 { [%eval 4.79] } 51. Nc6+ { [%eval 4.5] } 51... Ke6 { [%eval 4.71] }
+52. Nxe5 { [%eval 4.03] } 52... Rxe4 { [%eval 3.85] } 53. Nc6 { [%eval 4.24] }
+53... Re3 { [%eval 5.15] } 54. Rd8 { [%eval 5.03] } 54... Ne7 { [%eval 5.85] }
+55. Nxa7 { [%eval 5.85] } 55... h4 { [%eval 6.49] } 56. Kxh4 { [%eval 5.62] }
+56... Nf5+ { [%eval 5.71] } 57. Kg5 { [%eval 5.85] } 57... Rxg3+
+{ [%eval 5.9] } 58. Kf4 { [%eval 5.99] } 58... Rg1 { [%eval 6.29] } 59. Nb5
+{ [%eval 6.46] } 59... Rf1+ { [%eval 6.37] } 60. Kg4 { [%eval 5.79] } 1-0
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.13"]
+[Round "1.1.2"]
+[White "Abdusattorov, Nodirbek"]
+[Black "So, Wesley"]
+[Result "1-0"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "14204118"]
+[BlackFideId "5202213"]
+[WhiteElo "2727"]
+[BlackElo "2737"]
+[WhiteTeam "UZB"]
+[BlackTeam "USA"]
+[WhiteClock "0:00:31"]
+[BlackClock "0:00:11"]
+[Variant "Standard"]
+
+1. d4 { [%eval 0.24] } 1... Nf6 { [%eval 0.29] } 2. c4 { [%eval 0.32] } 2... e6
+{ [%eval 0.32] } 3. Nc3 { [%eval 0.16] } 3... d5 { [%eval 0.28] } 4. Bg5
+{ [%eval 0.22] } 4... Be7 { [%eval 0.18] } 5. e3 { [%eval 0.13] } 5... h6
+{ [%eval 0.14] } 6. Bxf6 { [%eval 0.12] } 6... Bxf6 { [%eval 0.13] } 7. Nf3
+{ [%eval 0.13] } 7... O-O { [%eval 0.16] } 8. cxd5 { [%eval 0.12] } 8... exd5
+{ [%eval 0.11] } 9. Qb3 { [%eval 0.06] } 9... c6 { [%eval 0.12] } 10. Bd3
+{ [%eval 0.05] } 10... Re8 { [%eval 0.11] } 11. O-O { [%eval 0.09] } 11... Nd7
+{ [%eval 0.17] } 12. Qc2 { [%eval 0.08] } 12... Be7 { [%eval 0.06] } 13. Rae1
+{ [%eval -0.0] } 13... Nf6 { [%eval 0.23] } 14. Ne5 { [%eval 0.23] } 14... a6
+{ [%eval 0.21] } 15. Na4 { [%eval 0.11] } 15... Be6 { [%eval 0.29] } 16. f4
+{ [%eval 0.27] } 16... Rc8 { [%eval 0.21] } 17. a3 { [%eval 0.2] } 17... a5
+{ [%eval 0.22] } 18. Rc1 { [%eval 0.2] } 18... Bd6 { [%eval 0.15] } 19. h3
+{ [%eval 0.16] } 19... Ne4 { [%eval 1.18] } 20. f5 { [%eval 1.29] } 20... Bd7
+{ [%eval 2.0] } 21. Bxe4 { [%eval 1.95] } 21... Bxe5 { [%eval 2.16] } 22. dxe5
+{ [%eval 2.05] } 22... dxe4 { [%eval 2.11] } 23. Qxe4 { [%eval 2.25] } 23... c5
+{ [%eval 2.09] } 24. e6 { [%eval 2.18] } 24... Bxa4 { [%eval 2.08] } 25. Qxa4
+{ [%eval 1.99] } 25... fxe6 { [%eval 2.73] } 26. f6 { [%eval 2.75] } 26... Rf8
+{ [%eval 2.75] } 27. Rcd1 { [%eval 2.32] } 27... Qe8 { [%eval 2.49] } 28. Qg4
+{ [%eval 2.19] } 28... Rf7 { [%eval 2.43] } 29. Rf4 { [%eval 1.5] } 29... Kh7
+{ [%eval 1.7] } 30. Qf3 { [%eval 0.56] } 30... Qc6 { [%eval 0.5] } 31. Qh5
+{ [%eval 0.44] } 31... Rcf8 { [%eval 1.21] } 32. Rd8 { [%eval 1.12] } 32...
+Rxd8 { [%eval 5.43] } 33. Qxf7 { [%eval 5.64] } 33... Rd1+ { [%eval 5.85] } 34.
+Kh2 { [%eval 5.44] } 34... Rd7 { [%eval 5.55] } 35. Qxd7 { [%eval 5.4] } 35...
+Qxd7 { [%eval 5.48] } 36. f7 { [%eval 5.5] } 1-0
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.13"]
+[Round "1.1.3"]
+[White "Carlsen, Magnus"]
+[Black "Caruana, Fabiano"]
+[Result "0-1"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "1503014"]
+[BlackFideId "2020009"]
+[WhiteElo "2818"]
+[BlackElo "2762"]
+[WhiteTeam "NOR"]
+[BlackTeam "USA"]
+[WhiteClock "0:00:10"]
+[BlackClock "0:00:12"]
+[Variant "Standard"]
+
+1. e4 { [%eval 0.31] } 1... e5 { [%eval 0.24] } 2. Nf3 { [%eval 0.24] } 2...
+Nc6 { [%eval 0.26] } 3. Bb5 { [%eval 0.22] } 3... a6 { [%eval 0.32] } 4. Ba4
+{ [%eval 0.26] } 4... Nf6 { [%eval 0.33] } 5. O-O { [%eval 0.32] } 5... Bc5
+{ [%eval 0.54] } 6. c3 { [%eval 0.54] } 6... b5 { [%eval 0.38] } 7. Bb3
+{ [%eval 0.43] } 7... d6 { [%eval 0.46] } 8. a4 { [%eval 0.42] } 8... Bg4
+{ [%eval 0.44] } 9. d3 { [%eval 0.39] } 9... O-O { [%eval 0.31] } 10. Nbd2
+{ [%eval 0.19] } 10... Bb6 { [%eval 0.4] } 11. h3 { [%eval 0.47] } 11... Bd7
+{ [%eval 0.44] } 12. axb5 { [%eval -0.0] } 12... axb5 { [%eval 0.0] } 13. Rxa8
+{ [%eval 0.04] } 13... Qxa8 { [%eval -0.01] } 14. Re1 { [%eval -0.24] } 14...
+Qa7 { [%eval -0.24] } 15. Qe2 { [%eval -0.17] } 15... Ne7 { [%eval -0.09] } 16.
+Nf1 { [%eval -0.14] } 16... Ng6 { [%eval 0.0] } 17. Bg5 { [%eval 0.01] } 17...
+Nh5 { [%eval -0.01] } 18. d4 { [%eval -0.03] } 18... Nhf4 { [%eval 0.0] } 19.
+Qd2 { [%eval -0.0] } 19... Be6 { [%eval 0.0] } 20. Bxe6 { [%eval -0.02] } 20...
+fxe6 { [%eval 0.0] } 21. N1h2 { [%eval -0.64] } 21... exd4 { [%eval -0.61] }
+22. cxd4 { [%eval -0.6] } 22... h6 { [%eval -0.06] } 23. Bxf4 { [%eval -0.04] }
+23... Nxf4 { [%eval 0.0] } 24. h4 { [%eval -0.41] } 24... Qa4 { [%eval -0.37] }
+25. Qd1 { [%eval -0.59] } 25... e5 { [%eval 0.0] } 26. dxe5 { [%eval -0.0] }
+26... Qb4 { [%eval 0.02] } 27. Qc2 { [%eval -0.14] } 27... dxe5 { [%eval 0.0] }
+28. Rd1 { [%eval -0.38] } 28... Ne6 { [%eval -0.33] } 29. Qd2 { [%eval -0.54] }
+29... Qxe4 { [%eval -0.49] } 30. Re1 { [%eval -0.37] } 30... Qc4
+{ [%eval -0.24] } 31. Rxe5 { [%eval -0.69] } 31... Nf4 { [%eval -0.09] } 32.
+Nf1 { [%eval -4.77] } 32... Nxg2 { [%eval -4.71] } 33. Kxg2 { [%eval -5.09] }
+33... Qg4+ { [%eval -5.09] } 34. Kh2 { [%eval -5.12] } 34... Qxf3
+{ [%eval -4.88] } 35. Ng3 { [%eval -4.97] } 35... Qxf2+ { [%eval -5.08] } 36.
+Qxf2 { [%eval -5.01] } 36... Rxf2+ { [%eval -4.98] } 37. Kh3 { [%eval -5.02] }
+37... Rxb2 { [%eval -4.93] } 38. Re7 { [%eval -5.15] } 38... Rf2
+{ [%eval -4.71] } 39. Kg4 { [%eval -5.65] } 39... Kf8 { [%eval -4.66] } 40. Re5
+{ [%eval -4.86] } 40... c6 { [%eval -4.56] } 41. Ne4 { [%eval -5.27] } 41...
+Re2 { [%eval -4.41] } 42. Re6 { [%eval -5.12] } 42... b4 { [%eval -3.92] } 43.
+Kf5 { [%eval -4.8] } 43... Rc2 { [%eval -4.7] } 44. Nd6 { [%eval -4.61] } 44...
+Kg8 { [%eval -4.74] } 45. Nc8 { [%eval -5.96] } 45... Bc5 { [%eval -6.12] } 46.
+Rxc6 { [%eval -6.15] } 46... b3 { [%eval -6.4] } 47. Rc7 { [%eval -6.5] } 47...
+b2 { [%eval -6.61] } 48. Rb7 { [%eval -6.63] } 48... Kh7 { [%eval -6.09] } 49.
+h5 { [%eval -6.71] } 49... Ba3 { [%eval -7.05] } 0-1
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.13"]
+[Round "1.1.3"]
+[White "So, Wesley"]
+[Black "Abdusattorov, Nodirbek"]
+[Result "0-1"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "5202213"]
+[BlackFideId "14204118"]
+[WhiteElo "2737"]
+[BlackElo "2727"]
+[WhiteTeam "USA"]
+[BlackTeam "UZB"]
+[WhiteClock "0:00:05"]
+[BlackClock "0:00:11"]
+[Variant "Standard"]
+
+1. e4 { [%eval 0.31] } 1... e5 { [%eval 0.24] } 2. Nf3 { [%eval 0.24] } 2...
+Nc6 { [%eval 0.26] } 3. Bb5 { [%eval 0.22] } 3... a6 { [%eval 0.32] } 4. Ba4
+{ [%eval 0.26] } 4... Nf6 { [%eval 0.33] } 5. O-O { [%eval 0.32] } 5... Be7
+{ [%eval 0.34] } 6. Re1 { [%eval 0.31] } 6... b5 { [%eval 0.31] } 7. Bb3
+{ [%eval 0.29] } 7... d6 { [%eval 0.45] } 8. a4 { [%eval 0.29] } 8... Rb8
+{ [%eval 0.28] } 9. axb5 { [%eval 0.25] } 9... axb5 { [%eval 0.28] } 10. c3
+{ [%eval 0.3] } 10... O-O { [%eval 0.33] } 11. d4 { [%eval 0.34] } 11... exd4
+{ [%eval 0.36] } 12. cxd4 { [%eval 0.4] } 12... d5 { [%eval 0.42] } 13. e5
+{ [%eval 0.47] } 13... Ne4 { [%eval 0.35] } 14. Nbd2 { [%eval 0.2] } 14... Bf5
+{ [%eval 0.08] } 15. Bc2 { [%eval -0.0] } 15... Nb4 { [%eval 0.0] } 16. Bb1
+{ [%eval -0.0] } 16... Ra8 { [%eval 0.0] } 17. Rxa8 { [%eval 0.01] } 17... Qxa8
+{ [%eval 0.05] } 18. Qe2 { [%eval -0.0] } 18... c5 { [%eval 0.41] } 19. dxc5
+{ [%eval 0.4] } 19... Bxc5 { [%eval 0.36] } 20. Nxe4 { [%eval 0.46] } 20...
+Bxe4 { [%eval 0.35] } 21. Bd2 { [%eval 0.42] } 21... Qa7 { [%eval 0.48] } 22.
+Bxb4 { [%eval 0.1] } 22... Bxb4 { [%eval 0.11] } 23. Rd1 { [%eval 0.11] } 23...
+Bc5 { [%eval 0.1] } 24. g3 { [%eval 0.15] } 24... h6 { [%eval 0.15] } 25. Kg2
+{ [%eval -0.05] } 25... Qb7 { [%eval -0.03] } 26. Rc1 { [%eval -0.14] } 26...
+Rc8 { [%eval 0.0] } 27. Re1 { [%eval -0.18] } 27... Ba7 { [%eval -0.08] } 28.
+Bd3 { [%eval -0.15] } 28... Qb6 { [%eval -0.09] } 29. Rd1 { [%eval -0.08] }
+29... Re8 { [%eval 0.0] } 30. Bxe4 { [%eval -0.0] } 30... dxe4
+{ [%eval -0.05] } 31. Qxe4 { [%eval -0.05] } 31... Qxf2+ { [%eval -0.04] } 32.
+Kh3 { [%eval -0.03] } 32... Qxb2 { [%eval 0.0] } 33. Rd7 { [%eval -0.0] } 33...
+Qa2 { [%eval 0.04] } 34. e6 { [%eval -0.0] } 34... Bc5 { [%eval 0.35] } 35.
+exf7+ { [%eval -0.0] } 35... Qxf7 { [%eval 0.0] } 36. Rxf7 { [%eval -0.0] }
+36... Rxe4 { [%eval 0.0] } 37. Rf5 { [%eval -0.0] } 37... Rc4 { [%eval -0.01] }
+38. Ne5 { [%eval -0.07] } 38... Rc2 { [%eval -0.07] } 39. Nd3 { [%eval -0.09] }
+39... Bg1 { [%eval -0.14] } 40. Rxb5 { [%eval -0.15] } 40... Rxh2+
+{ [%eval -0.13] } 41. Kg4 { [%eval -0.15] } 41... Rd2 { [%eval -0.15] } 42. Nf4
+{ [%eval -0.12] } 42... Rd6 { [%eval -0.13] } 43. Rd5 { [%eval -0.14] } 43...
+Rc6 { [%eval -0.14] } 44. Rd1 { [%eval -0.13] } 44... Be3 { [%eval -0.13] } 45.
+Re1 { [%eval -0.09] } 45... Bc1 { [%eval -0.03] } 46. Re8+ { [%eval -0.11] }
+46... Kf7 { [%eval -0.07] } 47. Re1 { [%eval -0.1] } 47... Rc4
+{ [%eval -0.04] } 48. Kf3 { [%eval -0.0] } 48... Rc3+ { [%eval 0.0] } 49. Kg4
+{ [%eval -0.0] } 49... Rc4 { [%eval 0.0] } 50. Kf3 { [%eval -0.0] } 50... Ba3
+{ [%eval 0.0] } 51. Re3 { [%eval -0.0] } 51... Bd6 { [%eval 0.0] } 52. Rd3
+{ [%eval -0.0] } 52... Be5 { [%eval 0.0] } 53. Rd7+ { [%eval -0.0] } 53... Kf6
+{ [%eval 0.0] } 54. Rd3 { [%eval -0.0] } 54... g5 { [%eval -0.03] } 55. Nd5+
+{ [%eval -0.0] } 55... Ke6 { [%eval 0.0] } 56. Ne3 { [%eval -0.0] } 56... Ra4
+{ [%eval 0.0] } 57. Rb3 { [%eval -0.0] } 57... Bd4 { [%eval -0.12] } 58. g4
+{ [%eval -0.03] } 58... Bc5 { [%eval 0.0] } 59. Rc3 { [%eval -0.01] } 59...
+Rf4+ { [%eval 0.0] } 60. Kg2 { [%eval -0.0] } 60... Bd4 { [%eval 0.0] } 61. Ra3
+{ [%eval -0.0] } 61... Re4 { [%eval 0.0] } 62. Ra6+ { [%eval -0.0] } 62... Ke5
+{ [%eval 0.0] } 63. Nc4+ { [%eval -0.3] } 63... Kd5 { [%eval -0.2] } 64. Na3
+{ [%eval -3.04] } 64... Rxg4+ { [%eval -3.34] } 65. Kf3 { [%eval -3.5] } 65...
+Rf4+ { [%eval -3.52] } 66. Kg2 { [%eval -3.94] } 66... h5 { [%eval -3.52] } 67.
+Ra5+ { [%eval -3.55] } 67... Bc5 { [%eval -3.55] } 68. Nb5 { [%eval -3.7] }
+68... Rc4 { [%eval -3.66] } 69. Nc7+ { [%eval -3.75] } 69... Kd6
+{ [%eval -3.89] } 70. Ne8+ { [%eval -4.35] } 70... Ke5 { [%eval -4.52] } 71.
+Ra6 { [%eval -4.9] } 71... Rc2+ { [%eval -4.68] } 72. Kf1 { [%eval -5.81] }
+72... h4 { [%eval -6.31] } 73. Ng7 { [%eval -6.77] } 73... h3 { [%eval -7.51] }
+74. Rh6 { [%eval -8.21] } 74... g4 { [%eval -8.18] } 0-1
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.13"]
+[Round "1.1.4"]
+[White "Caruana, Fabiano"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "2020009"]
+[BlackFideId "1503014"]
+[WhiteElo "2762"]
+[BlackElo "2818"]
+[WhiteTeam "USA"]
+[BlackTeam "NOR"]
+[WhiteClock "0:00:10"]
+[BlackClock "0:00:25"]
+[Variant "Standard"]
+
+1. d4 { [%eval 0.24] } 1... Nf6 { [%eval 0.29] } 2. c4 { [%eval 0.32] } 2... b6
+{ [%eval 0.52] } 3. Nc3 { [%eval 0.66] } 3... Bb7 { [%eval 0.64] } 4. f3
+{ [%eval 0.37] } 4... d5 { [%eval 0.35] } 5. cxd5 { [%eval 0.32] } 5... Nxd5
+{ [%eval 0.35] } 6. Nxd5 { [%eval 0.33] } 6... Qxd5 { [%eval 0.35] } 7. e4
+{ [%eval 0.27] } 7... Qd7 { [%eval 0.28] } 8. Bc4 { [%eval 0.03] } 8... Nc6
+{ [%eval 0.04] } 9. Be3 { [%eval -0.0] } 9... O-O-O { [%eval 0.08] } 10. Ne2
+{ [%eval 0.08] } 10... e5 { [%eval 0.12] } 11. Bb5 { [%eval -0.16] } 11... exd4
+{ [%eval -0.12] } 12. Nxd4 { [%eval -0.13] } 12... Qe7 { [%eval -0.14] } 13.
+Bxc6 { [%eval -0.16] } 13... Bxc6 { [%eval -0.15] } 14. O-O { [%eval -2.34] }
+14... Qf6 { [%eval -2.63] } 15. Rf2 { [%eval -2.56] } 15... Bc5
+{ [%eval -2.75] } 16. Rd2 { [%eval -2.7] } 16... Rd7 { [%eval -1.3] } 17. Nc2
+{ [%eval -2.15] } 17... Bd6 { [%eval -1.59] } 18. Rc1 { [%eval -2.22] } 18...
+Rhd8 { [%eval -2.35] } 19. Qe1 { [%eval -2.67] } 19... Bxh2+ { [%eval -2.66] }
+20. Kxh2 { [%eval -2.73] } 20... Rxd2 { [%eval -2.64] } 21. Bxd2
+{ [%eval -2.62] } 21... Qd6+ { [%eval -2.68] } 22. Kg1 { [%eval -2.75] } 22...
+Qxd2 { [%eval -2.7] } 23. Ne3 { [%eval -2.73] } 23... Qxe1+ { [%eval -2.74] }
+24. Rxe1 { [%eval -2.73] } 24... Rd2 { [%eval -2.74] } 25. Rc1
+{ [%eval -2.75] } 25... Bd7 { [%eval -2.79] } 26. Nc4 { [%eval -2.74] } 26...
+Rd4 { [%eval -2.77] } 27. b3 { [%eval -2.86] } 27... Be6 { [%eval -2.9] } 28.
+Na3 { [%eval -2.85] } 28... a6 { [%eval -2.21] } 29. Nb1 { [%eval -2.57] }
+29... a5 { [%eval -2.42] } 30. Kf2 { [%eval -2.46] } 30... a4 { [%eval -2.48] }
+31. Ke3 { [%eval -2.46] } 31... c5 { [%eval -2.62] } 32. Nd2 { [%eval -2.58] }
+32... Kb7 { [%eval -2.49] } 33. Rh1 { [%eval -2.51] } 33... h6
+{ [%eval -2.48] } 34. f4 { [%eval -2.55] } 34... f6 { [%eval -1.94] } 35. Rc1
+{ [%eval -2.59] } 35... axb3 { [%eval -1.98] } 36. axb3 { [%eval -2.03] } 36...
+Rb4 { [%eval -2.08] } 37. Rc3 { [%eval -2.36] } 37... Kc6 { [%eval -1.5] } 38.
+Rd3 { [%eval -2.44] } 38... f5 { [%eval -2.54] } 39. exf5 { [%eval -2.86] }
+39... Bxf5 { [%eval -3.03] } 40. Rd8 { [%eval -3.06] } 40... Be6
+{ [%eval -2.01] } 41. Rd3 { [%eval -3.23] } 41... Bd5 { [%eval -3.08] } 42. g3
+{ [%eval -3.11] } 42... g6 { [%eval -2.94] } 43. Rc3 { [%eval -2.95] } 43...
+Rd4 { [%eval -2.38] } 44. Rc1 { [%eval -2.9] } 44... Kb5 { [%eval -2.85] } 45.
+Ra1 { [%eval -3.64] } 45... Rb4 { [%eval -3.16] } 46. Ra3 { [%eval -4.04] }
+46... h5 { [%eval -4.19] } 47. Kf2 { [%eval -4.23] } 47... h4 { [%eval -4.29] }
+48. gxh4 { [%eval -4.46] } 48... Rxf4+ { [%eval -4.5] } 49. Kg3
+{ [%eval -4.71] } 49... Rd4 { [%eval -4.8] } 50. Ra2 { [%eval -5.04] } 50...
+Kb4 { [%eval -5.24] } 51. Nf1 { [%eval -5.33] } 51... Bxb3 { [%eval -5.39] }
+52. Ra6 { [%eval -5.22] } 52... Rd6 { [%eval -5.66] } 53. Ne3 { [%eval -5.75] }
+53... c4 { [%eval -5.87] } 54. Kf4 { [%eval -5.98] } 54... c3 { [%eval -6.16] }
+55. Ke5 { [%eval -6.33] } 55... Rc6 { [%eval -6.61] } 0-1
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.13"]
+[Round "1.1.5"]
+[White "Caruana, Fabiano"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "2020009"]
+[BlackFideId "1503014"]
+[WhiteElo "2762"]
+[BlackElo "2818"]
+[WhiteTeam "USA"]
+[BlackTeam "NOR"]
+[WhiteClock "0:03:24"]
+[BlackClock "0:03:03"]
+[Variant "Standard"]
+
+1. e4 { [%eval 0.31] } 1... c5 { [%eval 0.29] } 2. Nf3 { [%eval 0.3] } 2... e6
+{ [%eval 0.45] } 3. d4 { [%eval 0.42] } 3... cxd4 { [%eval 0.37] } 4. Nxd4
+{ [%eval 0.35] } 4... a6 { [%eval 0.43] } 5. Nc3 { [%eval 0.21] } 5... Qc7
+{ [%eval 0.43] } 6. Bd3 { [%eval 0.39] } 6... Nf6 { [%eval 0.35] } 7. Qe2
+{ [%eval 0.35] } 7... d6 { [%eval 0.53] } 8. f4 { [%eval 0.55] } 8... Nbd7
+{ [%eval 0.63] } 9. g4 { [%eval 0.71] } 9... Nc5 { [%eval 0.79] } 10. g5
+{ [%eval 0.87] } 10... Nfd7 { [%eval 0.78] } 11. a4 { [%eval 0.83] } 11... Be7
+{ [%eval 0.97] } 12. h4 { [%eval 0.57] } 12... b6 { [%eval 0.87] } 13. Be3
+{ [%eval 0.68] } 13... Bb7 { [%eval 0.67] } 14. h5 { [%eval 0.72] } 14... Rc8
+{ [%eval 0.93] } 15. Rg1 { [%eval 0.8] } 15... g6 { [%eval 0.77] } 16. Rh1
+{ [%eval 0.71] } 16... e5 { [%eval 0.7] } 17. hxg6 { [%eval 0.54] } 17... fxg6
+{ [%eval 0.55] } 18. Nf3 { [%eval -0.56] } 18... exf4 { [%eval -0.73] } 19.
+Bxf4 { [%eval -0.72] } 19... Nxd3+ { [%eval -0.67] } 20. cxd3 { [%eval -0.63] }
+20... Ne5 { [%eval -0.15] } 21. Be3 { [%eval -0.58] } 21... O-O
+{ [%eval -0.57] } 22. Nd4 { [%eval -0.91] } 22... Qd7 { [%eval -0.42] } 23.
+O-O-O { [%eval -1.53] } 23... b5 { [%eval -1.59] } 24. axb5 { [%eval -1.93] }
+24... axb5 { [%eval -1.76] } 25. Kb1 { [%eval -2.15] } 25... b4
+{ [%eval -2.19] } 26. Na2 { [%eval -2.14] } 26... d5 { [%eval -2.62] } 27. Rxh7
+{ [%eval -2.87] } 27... Kxh7 { [%eval -2.94] } 28. Qh2+ { [%eval -2.8] } 28...
+Kg8 { [%eval -3.1] } 29. Rh1 { [%eval -3.12] } 29... Bd6 { [%eval -3.26] } 30.
+Bf4 { [%eval -3.85] } 30... Qg7 { [%eval 0.0] } 31. Ne6 { [%eval -0.0] } 31...
+Nf3 { [%eval 0.0] } 32. Nxg7 { [%eval -5.08] } 32... Nxh2 { [%eval -4.87] } 33.
+Bxd6 { [%eval -5.17] } 33... Rf1+ { [%eval -5.25] } 34. Rxf1 { [%eval -5.2] }
+34... Nxf1 { [%eval -5.04] } 35. Bxb4 { [%eval -5.18] } 35... Kxg7
+{ [%eval -4.77] } 36. Bc3+ { [%eval -5.11] } 36... Kf7 { [%eval -5.12] } 37.
+Nb4 { [%eval -5.36] } 37... dxe4 { [%eval -5.37] } 38. dxe4 { [%eval -5.29] }
+38... Bxe4+ { [%eval -5.19] } 39. Ka2 { [%eval -5.16] } 39... Ne3
+{ [%eval -4.89] } 0-1
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.13"]
+[Round "1.1.4"]
+[White "Abdusattorov, Nodirbek"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "14204118"]
+[BlackFideId "5202213"]
+[WhiteElo "2727"]
+[BlackElo "2737"]
+[WhiteTeam "UZB"]
+[BlackTeam "USA"]
+[WhiteClock "0:04:25"]
+[BlackClock "0:02:31"]
+[Variant "Standard"]
+
+1. e4 { [%eval 0.31] } 1... d6 { [%eval 0.55] } 2. d4 { [%eval 0.6] } 2... Nf6
+{ [%eval 0.66] } 3. Nc3 { [%eval 0.65] } 3... g6 { [%eval 0.78] } 4. Nf3
+{ [%eval 0.59] } 4... Bg7 { [%eval 0.54] } 5. Be2 { [%eval 0.36] } 5... O-O
+{ [%eval 0.37] } 6. O-O { [%eval 0.25] } 6... c6 { [%eval 0.6] } 7. Bg5
+{ [%eval 0.35] } 7... h6 { [%eval 0.4] } 8. Bh4 { [%eval 0.06] } 8... g5
+{ [%eval 0.01] } 9. Bg3 { [%eval 0.01] } 9... Nh5 { [%eval 0.09] } 10. a4
+{ [%eval 0.12] } 10... a5 { [%eval 0.08] } 11. Re1 { [%eval -0.44] } 11... Nd7
+{ [%eval -0.06] } 12. Bc4 { [%eval -0.26] } 12... Nxg3 { [%eval -0.22] } 13.
+hxg3 { [%eval -0.09] } 13... Qb6 { [%eval 0.0] } 14. e5 { [%eval -0.0] } 14...
+dxe5 { [%eval -0.01] } 15. dxe5 { [%eval -0.0] } 15... Nc5 { [%eval 0.0] } 16.
+Qd4 { [%eval -1.31] } 16... Bf5 { [%eval -1.27] } 17. Qe3 { [%eval -1.4] }
+17... e6 { [%eval -0.27] } 18. Nd4 { [%eval -0.28] } 18... Bg6
+{ [%eval -0.26] } 19. Nb3 { [%eval -0.4] } 19... Nd7 { [%eval -0.29] } 20. Qxb6
+{ [%eval -0.28] } 20... Nxb6 { [%eval -0.28] } 21. Bd3 { [%eval -0.26] } 21...
+Bxd3 { [%eval -0.23] } 22. cxd3 { [%eval -0.32] } 22... Rfd8 { [%eval -0.29] }
+23. d4 { [%eval -0.27] } 23... Nc4 { [%eval -0.27] } 24. Re2 { [%eval -0.29] }
+24... c5 { [%eval 0.0] } 25. Nxc5 { [%eval -0.0] } 25... Rxd4 { [%eval 0.0] }
+26. Nb5 { [%eval -0.0] } 26... Rdd8 { [%eval 0.0] } 27. f4 { [%eval -0.0] }
+27... b6 { [%eval 0.0] } 28. Ne4 { [%eval -0.0] } 28... Rd3 { [%eval 0.0] } 29.
+Rc1 { [%eval -0.0] } 29... Ne3 { [%eval 0.0] } 30. Nf2 { [%eval -0.0] } 30...
+Rb3 { [%eval 0.0] } 31. Nd4 { [%eval -0.0] } 31... Rb4 { [%eval 0.0] } 32. Nc6
+{ [%eval -0.0] } 32... Rb3 { [%eval 0.0] } 33. Nd4 { [%eval -0.0] } 33... Rb4
+{ [%eval 0.0] } 34. Nc6 { [%eval -0.0] } 1/2-1/2
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.14"]
+[Round "1.2.1"]
+[White "Carlsen, Magnus"]
+[Black "Caruana, Fabiano"]
+[Result "1/2-1/2"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "1503014"]
+[BlackFideId "2020009"]
+[WhiteElo "2818"]
+[BlackElo "2762"]
+[WhiteTeam "NOR"]
+[BlackTeam "USA"]
+[WhiteClock "0:03:28"]
+[BlackClock "0:02:06"]
+[Variant "Standard"]
+
+1. e4 { [%eval 0.31] } 1... e5 { [%eval 0.24] } 2. Nf3 { [%eval 0.24] } 2...
+Nc6 { [%eval 0.26] } 3. Bb5 { [%eval 0.22] } 3... a6 { [%eval 0.32] } 4. Ba4
+{ [%eval 0.26] } 4... Nf6 { [%eval 0.33] } 5. O-O { [%eval 0.32] } 5... Be7
+{ [%eval 0.34] } 6. d3 { [%eval 0.19] } 6... b5 { [%eval 0.14] } 7. Bb3
+{ [%eval 0.14] } 7... d6 { [%eval 0.1] } 8. a3 { [%eval 0.17] } 8... O-O
+{ [%eval 0.22] } 9. Nc3 { [%eval 0.22] } 9... Na5 { [%eval 0.24] } 10. Ba2
+{ [%eval 0.22] } 10... Be6 { [%eval 0.26] } 11. Bg5 { [%eval -0.0] } 11... c5
+{ [%eval 0.0] } 12. Bxf6 { [%eval -0.0] } 12... Bxf6 { [%eval 0.0] } 13. Nd5
+{ [%eval -0.0] } 13... Nc6 { [%eval 0.0] } 14. c3 { [%eval 0.01] } 14... g6
+{ [%eval 0.01] } 15. b4 { [%eval 0.04] } 15... Bg7 { [%eval 0.11] } 16. Qd2
+{ [%eval 0.07] } 16... Ne7 { [%eval 0.14] } 17. Nxe7+ { [%eval -0.18] } 17...
+Qxe7 { [%eval -0.09] } 18. Bxe6 { [%eval -0.13] } 18... Qxe6 { [%eval -0.14] }
+19. a4 { [%eval -0.13] } 19... cxb4 { [%eval -0.12] } 20. cxb4
+{ [%eval -0.11] } 20... d5 { [%eval -0.11] } 21. Qa2 { [%eval -0.21] } 21...
+bxa4 { [%eval -0.05] } 22. Rfc1 { [%eval -0.12] } 22... Rfc8 { [%eval -0.15] }
+23. Qxa4 { [%eval -0.1] } 23... dxe4 { [%eval -0.11] } 24. dxe4
+{ [%eval -0.04] } 24... Rc4 { [%eval 0.0] } 25. g3 { [%eval -0.0] } 25... Rb8
+{ [%eval 0.0] } 26. Rxc4 { [%eval -0.0] } 26... Qxc4 { [%eval 0.0] } 27. Qxa6
+{ [%eval -0.0] } 27... Qxe4 { [%eval 0.0] } 28. Qd6 { [%eval -0.0] } 28... Qb7
+{ [%eval 0.0] } 29. Nxe5 { [%eval -0.0] } 29... Re8 { [%eval 0.0] } 30. Re1
+{ [%eval -0.0] } 30... Bxe5 { [%eval 0.0] } 31. Rxe5 { [%eval -0.0] } 31...
+Rxe5 { [%eval 0.0] } 32. Qxe5 { [%eval -0.0] } 32... Qxb4 { [%eval 0.0] }
+1/2-1/2
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.14"]
+[Round "1.2.1"]
+[White "So, Wesley"]
+[Black "Abdusattorov, Nodirbek"]
+[Result "1-0"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "5202213"]
+[BlackFideId "14204118"]
+[WhiteElo "2737"]
+[BlackElo "2727"]
+[WhiteTeam "USA"]
+[BlackTeam "UZB"]
+[WhiteClock "0:02:02"]
+[BlackClock "0:00:04"]
+[Variant "Standard"]
+
+1. b3 { [%eval -0.22] } 1... e5 { [%eval -0.16] } 2. Bb2 { [%eval -0.09] } 2...
+Nc6 { [%eval -0.15] } 3. e3 { [%eval -0.09] } 3... Nf6 { [%eval -0.08] } 4. Bb5
+{ [%eval -0.3] } 4... Bd6 { [%eval 0.0] } 5. Na3 { [%eval -0.27] } 5... Na5
+{ [%eval 0.05] } 6. Be2 { [%eval -0.05] } 6... a6 { [%eval 0.17] } 7. c4
+{ [%eval -0.12] } 7... O-O { [%eval -0.1] } 8. Nc2 { [%eval -0.12] } 8... Nc6
+{ [%eval 0.08] } 9. d4 { [%eval 0.05] } 9... exd4 { [%eval 0.37] } 10. exd4
+{ [%eval 0.41] } 10... Nb4 { [%eval 0.47] } 11. Ne3 { [%eval 0.56] } 11... Bf4
+{ [%eval 0.52] } 12. a3 { [%eval 0.3] } 12... Nc6 { [%eval 0.2] } 13. d5
+{ [%eval 0.15] } 13... Ne5 { [%eval 0.37] } 14. Qd4 { [%eval 0.42] } 14... Bxe3
+{ [%eval 0.49] } 15. Qxe3 { [%eval 0.41] } 15... Ng6 { [%eval 0.96] } 16. h4
+{ [%eval 1.0] } 16... d6 { [%eval 1.48] } 17. h5 { [%eval 1.49] } 17... Ne5
+{ [%eval 1.51] } 18. h6 { [%eval 1.44] } 18... g6 { [%eval 2.37] } 19. Qd4
+{ [%eval 2.32] } 19... Re8 { [%eval 2.27] } 20. O-O-O { [%eval 2.43] } 20...
+Nfd7 { [%eval 3.33] } 21. f4 { [%eval 3.28] } 21... Nc5 { [%eval 3.34] } 22.
+Kb1 { [%eval 3.34] } 22... Nxb3 { [%eval 3.33] } 23. Qc3 { [%eval 3.42] } 23...
+Nc5 { [%eval 3.29] } 24. fxe5 { [%eval 3.38] } 24... Na4 { [%eval 3.45] } 25.
+Qd2 { [%eval 3.12] } 25... dxe5 { [%eval 3.22] } 26. Nf3 { [%eval 3.25] } 26...
+b5 { [%eval 3.09] } 27. Bxe5 { [%eval 2.66] } 27... bxc4 { [%eval 4.3] } 28.
+Bxc4 { [%eval 4.73] } 28... Rb8+ { [%eval 5.29] } 29. Ka1 { [%eval 5.28] }
+29... Rxe5 { [%eval 5.67] } 30. Nxe5 { [%eval 5.91] } 30... Qd6 { [%eval 6.0] }
+31. Qe3 { [%eval 6.04] } 31... Bf5 { [%eval 6.3] } 32. Rhe1 { [%eval 5.77] }
+32... Bc2 { [%eval 6.86] } 33. Nc6 { [%eval 7.45] } 33... Qf6+ { [%eval 7.92] }
+34. Qd4 { [%eval 8.16] } 1-0
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.14"]
+[Round "1.2.2"]
+[White "Caruana, Fabiano"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "2020009"]
+[BlackFideId "1503014"]
+[WhiteElo "2762"]
+[BlackElo "2818"]
+[WhiteTeam "USA"]
+[BlackTeam "NOR"]
+[WhiteClock "0:00:18"]
+[BlackClock "0:00:10"]
+[Variant "Standard"]
+
+1. e4 { [%eval 0.31] } 1... e5 { [%eval 0.24] } 2. Nf3 { [%eval 0.24] } 2...
+Nc6 { [%eval 0.26] } 3. Bc4 { [%eval 0.1] } 3... Nf6 { [%eval 0.09] } 4. d3
+{ [%eval 0.12] } 4... Bc5 { [%eval 0.21] } 5. Bg5 { [%eval -0.1] } 5... h6
+{ [%eval -0.06] } 6. Bh4 { [%eval 0.1] } 6... Be7 { [%eval 0.22] } 7. Bg3
+{ [%eval 0.22] } 7... d6 { [%eval 0.22] } 8. a4 { [%eval 0.21] } 8... O-O
+{ [%eval 0.17] } 9. a5 { [%eval 0.12] } 9... Be6 { [%eval 0.22] } 10. Bxe6
+{ [%eval 0.25] } 10... fxe6 { [%eval 0.2] } 11. O-O { [%eval 0.24] } 11... b5
+{ [%eval 0.19] } 12. axb6 { [%eval 0.25] } 12... axb6 { [%eval 0.24] } 13. Nc3
+{ [%eval -0.0] } 13... Qd7 { [%eval 0.09] } 14. Qd2 { [%eval -0.12] } 14... Nd4
+{ [%eval -0.12] } 15. Nxd4 { [%eval -0.09] } 15... exd4 { [%eval -0.09] } 16.
+Ne2 { [%eval -0.06] } 16... e5 { [%eval -0.05] } 17. c3 { [%eval -0.1] } 17...
+c5 { [%eval -0.05] } 18. cxd4 { [%eval -0.19] } 18... cxd4 { [%eval -0.16] }
+19. Qb4 { [%eval -0.12] } 19... b5 { [%eval 0.22] } 20. Qb3+ { [%eval 0.18] }
+20... Kh7 { [%eval 0.12] } 21. Rxa8 { [%eval 0.15] } 21... Rxa8
+{ [%eval 0.06] } 22. h3 { [%eval 0.03] } 22... Rc8 { [%eval 0.46] } 23. f4
+{ [%eval 0.44] } 23... Nh5 { [%eval 1.45] } 24. fxe5 { [%eval 1.46] } 24...
+Nxg3 { [%eval 2.11] } 25. Nxg3 { [%eval 2.54] } 25... dxe5 { [%eval 3.97] } 26.
+Rf7 { [%eval 4.26] } 26... Qd8 { [%eval 4.6] } 27. Qe6 { [%eval 2.86] } 27...
+Bf8 { [%eval 4.75] } 28. Nf5 { [%eval 2.14] } 28... Rc1+ { [%eval 2.16] } 29.
+Kh2 { [%eval 2.02] } 29... Qg5 { [%eval 2.27] } 30. Nh4 { [%eval 1.61] } 30...
+Bb4 { [%eval 1.69] } 31. Nf3 { [%eval 1.59] } 31... Qg6 { [%eval 1.49] } 32.
+Qxg6+ { [%eval 1.46] } 32... Kxg6 { [%eval 1.36] } 33. Nxe5+ { [%eval 1.24] }
+33... Kh7 { [%eval 1.04] } 34. Rd7 { [%eval 1.13] } 34... Rc2 { [%eval 1.99] }
+35. Rxd4 { [%eval 0.2] } 35... Bd2 { [%eval 0.95] } 36. Kg3 { [%eval 0.79] }
+36... Be1+ { [%eval 1.37] } 37. Kf3 { [%eval 0.97] } 37... Rf2+ { [%eval 1.2] }
+38. Ke3 { [%eval 1.16] } 38... Rxb2 { [%eval 1.66] } 39. Rd7 { [%eval 1.14] }
+39... Rxg2 { [%eval 1.11] } 40. d4 { [%eval 0.62] } 40... b4 { [%eval 1.38] }
+41. Rb7 { [%eval 1.39] } 41... Bc3 { [%eval 2.48] } 42. Nf3 { [%eval 2.61] }
+42... Rg3 { [%eval 3.23] } 43. d5 { [%eval 3.26] } 43... Kg6 { [%eval 3.63] }
+44. Kf4 { [%eval 3.73] } 44... Rxh3 { [%eval 4.06] } 45. e5 { [%eval 4.39] }
+45... Rh1 { [%eval 4.95] } 46. d6 { [%eval 3.19] } 46... Rd1 { [%eval 3.57] }
+47. Nh4+ { [%eval -0.0] } 47... Kh5 { [%eval 0.0] } 48. Nf5 { [%eval -0.0] }
+48... g5+ { [%eval 0.0] } 49. Ke4 { [%eval -0.0] } 49... Re1+ { [%eval 0.0] }
+50. Ne3 { [%eval -0.1] } 50... Bxe5 { [%eval 0.0] } 51. d7 { [%eval -0.0] }
+51... Bf6 { [%eval 0.0] } 52. Rxb4 { [%eval -0.0] } 52... g4 { [%eval 0.68] }
+53. Kf5 { [%eval -0.0] } 53... Rxe3 { [%eval 0.0] } 54. Kxf6 { [%eval -0.0] }
+54... Rd3 { [%eval 0.0] } 55. Ke6 { [%eval -0.0] } 55... Kh4 { [%eval 0.0] }
+56. Rb5 { [%eval -0.0] } 56... Rxd7 { [%eval 0.0] } 57. Kxd7 { [%eval -0.0] }
+57... g3 { [%eval 0.0] } 58. Ke6 { [%eval -0.0] } 58... g2 { [%eval 0.0] } 59.
+Rb1 { [%eval -0.0] } 59... Kg3 { [%eval 0.0] } 60. Kf5 { [%eval -0.0] } 60...
+h5 { [%eval 0.0] } 61. Rb3+ { [%eval -0.0] } 61... Kh2 { [%eval 0.0] } 62. Rb2
+{ [%eval -0.0] } 62... h4 { [%eval 0.0] } 63. Kg4 { [%eval -0.0] } 63... h3
+{ [%eval 0.0] } 64. Rb1 { [%eval -0.0] } 64... g1=R+ { [%eval 0.0] } 65. Rxg1
+{ [%eval -0.0] } 65... Kxg1 { [%eval 0.0] } 66. Kxh3 { [%eval -0.0] } 1/2-1/2
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.14"]
+[Round "1.2.2"]
+[White "Abdusattorov, Nodirbek"]
+[Black "So, Wesley"]
+[Result "0-1"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "14204118"]
+[BlackFideId "5202213"]
+[WhiteElo "2727"]
+[BlackElo "2737"]
+[WhiteTeam "UZB"]
+[BlackTeam "USA"]
+[WhiteClock "0:00:20"]
+[BlackClock "0:02:10"]
+[Variant "Standard"]
+
+1. d4 { [%eval 0.24] } 1... d5 { [%eval 0.25] } 2. c4 { [%eval 0.24] } 2... c6
+{ [%eval 0.23] } 3. Nc3 { [%eval 0.3] } 3... Nf6 { [%eval 0.23] } 4. Nf3
+{ [%eval 0.32] } 4... e6 { [%eval 0.26] } 5. e3 { [%eval 0.23] } 5... Nbd7
+{ [%eval 0.19] } 6. Bd3 { [%eval 0.18] } 6... dxc4 { [%eval 0.05] } 7. Bxc4
+{ [%eval 0.09] } 7... b5 { [%eval 0.11] } 8. Bd3 { [%eval 0.12] } 8... Bd6
+{ [%eval 0.25] } 9. O-O { [%eval 0.19] } 9... O-O { [%eval 0.26] } 10. Qc2
+{ [%eval 0.2] } 10... Bb7 { [%eval 0.21] } 11. Ng5 { [%eval -0.01] } 11... h6
+{ [%eval 0.03] } 12. Nge4 { [%eval 0.03] } 12... Be7 { [%eval 0.05] } 13. a3
+{ [%eval -0.0] } 13... a5 { [%eval 0.08] } 14. Bd2 { [%eval -0.13] } 14... Rc8
+{ [%eval -0.09] } 15. Nxf6+ { [%eval -0.15] } 15... Nxf6 { [%eval 0.0] } 16.
+Ne4 { [%eval 0.07] } 16... c5 { [%eval 0.05] } 17. Nxf6+ { [%eval 0.06] } 17...
+Bxf6 { [%eval -0.02] } 18. dxc5 { [%eval -0.05] } 18... Bxb2 { [%eval -0.04] }
+19. Rad1 { [%eval -2.63] } 19... Bxa3 { [%eval -2.55] } 20. Bb4
+{ [%eval -2.86] } 20... Bxb4 { [%eval -2.9] } 21. Bh7+ { [%eval -2.93] } 21...
+Kh8 { [%eval -2.91] } 22. Rxd8 { [%eval -2.73] } 22... Rfxd8 { [%eval -2.99] }
+23. Be4 { [%eval -3.25] } 23... Rxc5 { [%eval -3.26] } 24. Qb1
+{ [%eval -3.43] } 24... Bxe4 { [%eval -3.43] } 25. Qxe4 { [%eval -3.43] } 25...
+Bc3 { [%eval -2.83] } 26. Qb7 { [%eval -2.73] } 26... a4 { [%eval -2.4] } 27.
+Qa7 { [%eval -3.16] } 27... Rcc8 { [%eval -3.39] } 28. Qa6 { [%eval -4.66] }
+28... Ra8 { [%eval -4.87] } 29. Qxb5 { [%eval -5.02] } 29... a3
+{ [%eval -4.91] } 30. Qb3 { [%eval -5.31] } 30... Bf6 { [%eval -5.24] } 31. Qa2
+{ [%eval -5.4] } 31... Rdb8 { [%eval -5.42] } 0-1
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.14"]
+[Round "1.2.3"]
+[White "Carlsen, Magnus"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "1503014"]
+[BlackFideId "2020009"]
+[WhiteElo "2818"]
+[BlackElo "2762"]
+[WhiteTeam "NOR"]
+[BlackTeam "USA"]
+[WhiteClock "0:00:08"]
+[BlackClock "0:00:15"]
+[Variant "Standard"]
+
+1. d4 { [%eval 0.24] } 1... Nf6 { [%eval 0.29] } 2. c4 { [%eval 0.32] } 2... e6
+{ [%eval 0.32] } 3. Nf3 { [%eval 0.2] } 3... d5 { [%eval 0.19] } 4. Nc3
+{ [%eval 0.2] } 4... c5 { [%eval 0.28] } 5. cxd5 { [%eval 0.33] } 5... cxd4
+{ [%eval 0.21] } 6. Qxd4 { [%eval 0.25] } 6... exd5 { [%eval 0.17] } 7. e4
+{ [%eval 0.18] } 7... dxe4 { [%eval 0.27] } 8. Qxd8+ { [%eval 0.18] } 8... Kxd8
+{ [%eval 0.27] } 9. Ne5 { [%eval -0.08] } 9... Be6 { [%eval -0.08] } 10. Bg5
+{ [%eval -0.12] } 10... Bd6 { [%eval -0.05] } 11. O-O-O { [%eval -0.05] } 11...
+Ke7 { [%eval -0.05] } 12. Nc4 { [%eval -0.04] } 12... Bb4 { [%eval 0.3] } 13.
+Nd5+ { [%eval 0.18] } 13... Bxd5 { [%eval 0.27] } 14. Rxd5 { [%eval 0.29] }
+14... Nc6 { [%eval 0.51] } 15. a3 { [%eval 0.38] } 15... Be1 { [%eval 0.39] }
+16. Rf5 { [%eval 0.46] } 16... Nd4 { [%eval 0.53] } 17. Re5+ { [%eval 0.42] }
+17... Ne6 { [%eval 0.37] } 18. Bh4 { [%eval 0.31] } 18... g5 { [%eval 0.26] }
+19. Bxg5 { [%eval 0.11] } 19... Bxf2 { [%eval 0.17] } 20. Rxe4 { [%eval 0.19] }
+20... Rac8 { [%eval 0.31] } 21. Kb1 { [%eval 0.35] } 21... Rc5 { [%eval 0.31] }
+22. Bxf6+ { [%eval 0.27] } 22... Kxf6 { [%eval 0.26] } 23. Be2 { [%eval 0.24] }
+23... Bd4 { [%eval 0.7] } 24. Rf1+ { [%eval 0.26] } 24... Ke7 { [%eval 0.24] }
+25. Ne3 { [%eval 0.22] } 25... Bxe3 { [%eval 0.16] } 26. Rxe3 { [%eval 0.13] }
+26... h5 { [%eval 0.34] } 27. Rf4 { [%eval 0.14] } 27... b6 { [%eval 0.41] }
+28. Ra4 { [%eval 0.19] } 28... a5 { [%eval 0.22] } 29. Rh4 { [%eval 0.23] }
+29... Rg8 { [%eval 0.15] } 30. g3 { [%eval 0.12] } 30... Rgg5 { [%eval 0.13] }
+31. Rhe4 { [%eval 0.14] } 31... Rgf5 { [%eval 0.16] } 32. Bc4 { [%eval 0.14] }
+32... Rc6 { [%eval 0.1] } 33. Re2 { [%eval -0.0] } 33... Kf6 { [%eval 0.0] }
+34. Rh4 { [%eval -0.0] } 34... Rd6 { [%eval 0.0] } 35. Ka2 { [%eval -0.0] }
+35... b5 { [%eval 0.02] } 36. Bb3 { [%eval 0.01] } 36... a4 { [%eval 0.04] }
+37. Bc2 { [%eval 0.07] } 37... Rc5 { [%eval 0.09] } 38. Kb1 { [%eval -0.04] }
+38... Rcd5 { [%eval 0.0] } 39. Rf2+ { [%eval -0.0] } 39... Ke7 { [%eval 0.16] }
+40. Rf5 { [%eval 0.14] } 40... Rxf5 { [%eval 0.15] } 41. Bxf5 { [%eval 0.16] }
+41... Rd5 { [%eval 0.56] } 42. Be4 { [%eval 0.46] } 42... Rc5 { [%eval 0.51] }
+43. Bf3 { [%eval 0.42] } 43... Ng7 { [%eval 0.44] } 44. Rb4 { [%eval 0.24] }
+44... Ne8 { [%eval 0.39] } 45. Be2 { [%eval 0.06] } 45... Nd6 { [%eval 0.01] }
+46. Rh4 { [%eval 0.02] } 46... Re5 { [%eval 0.01] } 47. Bd3 { [%eval -0.0] }
+47... Rc5 { [%eval 0.0] } 48. Be2 { [%eval -0.0] } 48... Re5 { [%eval 0.0] }
+49. Bxh5 { [%eval -0.0] } 49... Nc4 { [%eval 0.05] } 50. Kc2 { [%eval 0.09] }
+50... Re3 { [%eval 0.61] } 51. Bd1 { [%eval 0.35] } 51... Re1 { [%eval 0.32] }
+52. Bf3 { [%eval 0.09] } 52... Re3 { [%eval 4.26] } 53. Re4+ { [%eval 4.46] }
+53... Rxe4 { [%eval 4.49] } 54. Bxe4 { [%eval 4.59] } 54... Kd6
+{ [%eval 4.87] } 55. Bd3 { [%eval 4.86] } 55... Ne3+ { [%eval 5.01] } 56. Kd2
+{ [%eval 4.65] } 56... Ng4 { [%eval 5.19] } 57. h3 { [%eval 4.98] } 57... Nf2
+{ [%eval 5.24] } 58. Bxb5 { [%eval 4.55] } 58... Nxh3 { [%eval 4.68] } 59. Bxa4
+{ [%eval 4.94] } 59... Ng5 { [%eval 5.0] } 60. Ke3 { [%eval 5.07] } 60... Ke5
+{ [%eval 5.16] } 61. Bc2 { [%eval 5.28] } 61... Ne6 { [%eval 5.33] } 62. g4
+{ [%eval 5.32] } 62... f6 { [%eval 5.41] } 63. a4 { [%eval 5.62] } 63... Nd4
+{ [%eval 5.76] } 64. Be4 { [%eval 5.55] } 64... Nb3 { [%eval 5.77] } 65. Bd3
+{ [%eval 5.44] } 65... Nc5 { [%eval 6.63] } 66. a5 { [%eval 7.07] } 66... Ne6
+{ [%eval 7.98] } 67. a6 { [%eval 8.24] } 1-0
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.14"]
+[Round "1.2.3"]
+[White "So, Wesley"]
+[Black "Abdusattorov, Nodirbek"]
+[Result "0-1"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "5202213"]
+[BlackFideId "14204118"]
+[WhiteElo "2737"]
+[BlackElo "2727"]
+[WhiteTeam "USA"]
+[BlackTeam "UZB"]
+[WhiteClock "0:00:12"]
+[BlackClock "0:00:09"]
+[Variant "Standard"]
+
+1. e4 { [%eval 0.31] } 1... e5 { [%eval 0.24] } 2. Nf3 { [%eval 0.24] } 2...
+Nc6 { [%eval 0.26] } 3. d4 { [%eval 0.09] } 3... exd4 { [%eval 0.07] } 4. Nxd4
+{ [%eval -0.0] } 4... Bb4+ { [%eval 0.31] } 5. c3 { [%eval 0.31] } 5... Bc5
+{ [%eval 0.26] } 6. Nf5 { [%eval -0.35] } 6... d6 { [%eval -0.2] } 7. Nxg7+
+{ [%eval -0.09] } 7... Kf8 { [%eval -0.18] } 8. Nh5 { [%eval -0.25] } 8... Qh4
+{ [%eval -0.24] } 9. Ng3 { [%eval -0.24] } 9... Nf6 { [%eval -0.19] } 10. Be2
+{ [%eval -0.17] } 10... Ne5 { [%eval 0.0] } 11. f3 { [%eval -0.15] } 11... Rg8
+{ [%eval -0.27] } 12. Kd2 { [%eval -0.16] } 12... Be6 { [%eval 0.17] } 13. Kc2
+{ [%eval 0.19] } 13... Rd8 { [%eval 0.46] } 14. b4 { [%eval -0.21] } 14... Bb6
+{ [%eval 0.21] } 15. Bb2 { [%eval -2.49] } 15... d5 { [%eval -2.94] } 16. Na3
+{ [%eval -3.06] } 16... c5 { [%eval -2.27] } 17. bxc5 { [%eval -2.23] } 17...
+dxe4 { [%eval -2.5] } 18. cxb6 { [%eval -2.44] } 18... Rxd1 { [%eval -2.5] }
+19. Raxd1 { [%eval -2.58] } 19... exf3 { [%eval 0.0] } 20. Rd4 { [%eval -0.0] }
+20... Qg5 { [%eval 0.73] } 21. bxa7 { [%eval 0.51] } 21... Qg6+
+{ [%eval 1.79] } 22. Bd3 { [%eval -0.31] } 22... Nxd3 { [%eval -0.28] } 23.
+a8=Q+ { [%eval -0.15] } 23... Kg7 { [%eval -0.18] } 24. Qa5 { [%eval -0.44] }
+24... Nf2+ { [%eval -0.46] } 25. Kc1 { [%eval -0.37] } 25... Nxh1
+{ [%eval -0.35] } 26. gxf3 { [%eval -0.36] } 26... Nxg3 { [%eval -0.45] } 27.
+hxg3 { [%eval -0.34] } 27... Qxg3 { [%eval -0.31] } 28. c4 { [%eval -0.3] }
+28... Kg6 { [%eval -0.08] } 29. Rd1 { [%eval -1.89] } 29... Rc8
+{ [%eval 0.51] } 30. Kb1 { [%eval -1.67] } 30... Qxf3 { [%eval -1.72] } 31.
+Rg1+ { [%eval -1.92] } 31... Ng4 { [%eval -1.94] } 32. Ka1 { [%eval -1.9] }
+32... h5 { [%eval -1.13] } 33. Qe5 { [%eval -1.07] } 33... Rg8
+{ [%eval -0.99] } 34. Nb5 { [%eval -0.91] } 34... Qf2 { [%eval -0.85] } 35.
+Qe4+ { [%eval -0.9] } 35... Bf5 { [%eval -0.96] } 36. Qh1 { [%eval -1.02] }
+36... Re8 { [%eval -0.25] } 37. Nd6 { [%eval -0.14] } 37... Re2
+{ [%eval -0.16] } 38. Nxf5 { [%eval -0.1] } 38... Rxb2 { [%eval -0.12] } 39.
+Rg2 { [%eval -0.14] } 39... Rxa2+ { [%eval -0.12] } 40. Kb1 { [%eval -0.19] }
+40... Rb2+ { [%eval -0.18] } 41. Ka1 { [%eval -0.16] } 41... Ra2+
+{ [%eval -0.15] } 42. Kb1 { [%eval -0.17] } 42... Qxf5+ { [%eval -0.13] } 43.
+Kxa2 { [%eval -0.13] } 43... Qe4 { [%eval 0.0] } 44. Kb3 { [%eval -0.31] }
+44... f5 { [%eval -0.23] } 45. Rg1 { [%eval -0.21] } 45... Qe3+
+{ [%eval -0.16] } 46. Kb4 { [%eval -0.32] } 46... h4 { [%eval -0.16] } 47. Re1
+{ [%eval -1.44] } 47... Qd2+ { [%eval -1.65] } 48. Kb5 { [%eval -1.7] } 48...
+Kg5 { [%eval -0.42] } 49. Rb1 { [%eval -0.46] } 49... Qd7+ { [%eval -0.37] }
+50. Kb6 { [%eval -0.4] } 50... Qe6+ { [%eval -0.29] } 51. Kb5 { [%eval -0.42] }
+51... Qe4 { [%eval -0.06] } 52. Qxe4 { [%eval -0.0] } 52... fxe4
+{ [%eval 0.0] } 53. Kb6 { [%eval -0.0] } 53... Ne5 { [%eval 0.0] } 54. Kc5
+{ [%eval -2.42] } 54... h3 { [%eval 0.0] } 55. Kd4 { [%eval -4.59] } 55... Kf4
+{ [%eval -5.35] } 56. Rxb7 { [%eval -5.51] } 56... e3 { [%eval -5.7] } 57. Rb1
+{ [%eval -7.41] } 57... e2 { [%eval -10.03] } 58. c5 { [%eval -12.35] } 58...
+h2 { [%eval -5.56] } 59. Kc3 { [%eval -5.56] } 59... Ke3 { [%eval -7.85] } 60.
+Rh1 { [%eval -10.13] } 60... Nc6 { [%eval -5.2] } 61. Kc2 { [%eval -6.95] }
+61... Ne7 { [%eval -6.01] } 62. Kc3 { [%eval -6.94] } 62... Nc6
+{ [%eval -7.15] } 63. Kc2 { [%eval -9.07] } 63... Nd4+ { [%eval -8.97] } 64.
+Kc3 { [%eval -12.75] } 64... Nf3 { [%eval -12.58] } 65. c6 { [%eval -12.3] }
+65... Ng1 { [%eval -65.73] } 0-1
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.14"]
+[Round "1.2.4"]
+[White "Caruana, Fabiano"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "2020009"]
+[BlackFideId "1503014"]
+[WhiteElo "2762"]
+[BlackElo "2818"]
+[WhiteTeam "USA"]
+[BlackTeam "NOR"]
+[WhiteClock "0:01:49"]
+[BlackClock "0:00:07"]
+[Variant "Standard"]
+
+1. e4 { [%eval 0.31] } 1... e5 { [%eval 0.24] } 2. Nf3 { [%eval 0.24] } 2...
+Nc6 { [%eval 0.26] } 3. Bc4 { [%eval 0.1] } 3... Nf6 { [%eval 0.09] } 4. d3
+{ [%eval 0.12] } 4... Bc5 { [%eval 0.21] } 5. Bg5 { [%eval -0.1] } 5... h6
+{ [%eval -0.06] } 6. Bh4 { [%eval 0.1] } 6... Be7 { [%eval 0.22] } 7. Bg3
+{ [%eval 0.22] } 7... d6 { [%eval 0.22] } 8. a4 { [%eval 0.21] } 8... O-O
+{ [%eval 0.17] } 9. a5 { [%eval 0.12] } 9... Be6 { [%eval 0.22] } 10. Bxe6
+{ [%eval 0.25] } 10... fxe6 { [%eval 0.2] } 11. c3 { [%eval 0.1] } 11... b5
+{ [%eval 0.09] } 12. Qb3 { [%eval -0.09] } 12... Qd7 { [%eval -0.05] } 13. O-O
+{ [%eval -0.08] } 13... a6 { [%eval 0.05] } 14. Nbd2 { [%eval 0.08] } 14... Nh5
+{ [%eval 0.13] } 15. Rfd1 { [%eval -0.11] } 15... g5 { [%eval -0.04] } 16. h3
+{ [%eval -0.08] } 16... Nf4 { [%eval 0.42] } 17. Bxf4 { [%eval 0.53] } 17...
+Rxf4 { [%eval 0.46] } 18. d4 { [%eval 0.34] } 18... Raf8 { [%eval 0.43] } 19.
+d5 { [%eval 0.38] } 19... Nd8 { [%eval 0.54] } 20. Nf1 { [%eval -0.24] } 20...
+h5 { [%eval 0.0] } 21. Ne3 { [%eval -0.0] } 21... g4 { [%eval -0.04] } 22. hxg4
+{ [%eval -0.11] } 22... hxg4 { [%eval -0.05] } 23. Nh2 { [%eval -0.0] } 23...
+Rxf2 { [%eval 1.28] } 24. Nexg4 { [%eval 1.3] } 24... R2f4 { [%eval 1.74] } 25.
+c4 { [%eval 1.81] } 25... bxc4 { [%eval 2.34] } 26. Qg3 { [%eval 2.41] } 26...
+Kh7 { [%eval 2.72] } 27. Qh3+ { [%eval 2.92] } 27... Kg8 { [%eval 2.79] } 28.
+Ra3 { [%eval 2.44] } 28... Bg5 { [%eval 3.27] } 29. Rg3 { [%eval 3.37] } 29...
+Qg7 { [%eval 3.43] } 30. Nf3 { [%eval 2.61] } 30... Rxf3 { [%eval 2.79] } 31.
+gxf3 { [%eval 2.33] } 31... Kf7 { [%eval 2.67] } 32. Nf2 { [%eval 1.57] } 32...
+Ke7 { [%eval 2.52] } 33. Rc1 { [%eval 1.74] } 33... Rh8 { [%eval 3.79] } 34.
+Qg4 { [%eval 4.04] } 34... Nf7 { [%eval 4.41] } 35. Rxc4 { [%eval 4.34] } 35...
+Kd8 { [%eval 6.86] } 36. dxe6 { [%eval 6.88] } 1-0
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.14"]
+[Round "1.2.5"]
+[White "Carlsen, Magnus"]
+[Black "Caruana, Fabiano"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "1503014"]
+[BlackFideId "2020009"]
+[WhiteElo "2818"]
+[BlackElo "2762"]
+[WhiteTeam "NOR"]
+[BlackTeam "USA"]
+[WhiteClock "0:02:37"]
+[BlackClock "0:00:18"]
+[Variant "Standard"]
+
+1. e4 { [%eval 0.31] } 1... e5 { [%eval 0.24] } 2. Nf3 { [%eval 0.24] } 2...
+Nc6 { [%eval 0.26] } 3. Bb5 { [%eval 0.22] } 3... a6 { [%eval 0.32] } 4. Ba4
+{ [%eval 0.26] } 4... Nf6 { [%eval 0.33] } 5. O-O { [%eval 0.32] } 5... Nxe4
+{ [%eval 0.28] } 6. d4 { [%eval 0.39] } 6... Be7 { [%eval 0.46] } 7. Re1
+{ [%eval 0.45] } 7... b5 { [%eval 0.4] } 8. Bb3 { [%eval 0.23] } 8... d5
+{ [%eval 0.17] } 9. dxe5 { [%eval 0.19] } 9... Be6 { [%eval 0.12] } 10. c3
+{ [%eval 0.03] } 10... O-O { [%eval 0.1] } 11. h3 { [%eval 0.04] } 11... Qd7
+{ [%eval 0.04] } 12. Bc2 { [%eval -0.23] } 12... Rad8 { [%eval 0.1] } 13. Nbd2
+{ [%eval 0.22] } 13... Nxd2 { [%eval 0.2] } 14. Qxd2 { [%eval 0.21] } 14... Bf5
+{ [%eval 0.19] } 15. Bxf5 { [%eval 0.18] } 15... Qxf5 { [%eval 0.15] } 16. Qf4
+{ [%eval 0.2] } 16... Qxf4 { [%eval 0.22] } 17. Bxf4 { [%eval 0.13] } 17... d4
+{ [%eval 0.46] } 18. Rac1 { [%eval 0.61] } 18... dxc3 { [%eval 0.68] } 19. Rxc3
+{ [%eval 0.72] } 19... Nb4 { [%eval 0.68] } 20. Rxc7 { [%eval 0.57] } 20...
+Rfe8 { [%eval 0.69] } 21. Bg5 { [%eval 0.31] } 21... Bxg5 { [%eval 0.24] } 22.
+Nxg5 { [%eval 0.24] } 22... f6 { [%eval 1.13] } 23. Nf7 { [%eval 1.2] } 23...
+Rd2 { [%eval 1.87] } 24. e6 { [%eval 1.87] } 24... h5 { [%eval 2.98] } 25. Re4
+{ [%eval 3.2] } 25... Nxa2 { [%eval 3.76] } 26. Rc6 { [%eval 3.04] } 26... Rd5
+{ [%eval 4.08] } 27. Rxa6 { [%eval 4.08] } 27... Nc1 { [%eval 4.58] } 28. Rd6
+{ [%eval 4.53] } 28... Rc5 { [%eval 4.97] } 29. Rd7 { [%eval 5.08] } 29... Nb3
+{ [%eval 4.99] } 30. Nd6 { [%eval 3.86] } 30... Rc1+ { [%eval 4.32] } 31. Kh2
+{ [%eval 4.52] } 31... Nd2 { [%eval 4.81] } 32. g4 { [%eval 4.88] } 32... Nxe4
+{ [%eval 4.86] } 33. Nxe8 { [%eval 4.81] } 33... Re1 { [%eval 5.27] } 34. e7
+{ [%eval 5.42] } 34... f5 { [%eval 6.15] } 35. g5 { [%eval 6.48] } 35... Nxg5
+{ [%eval 6.49] } 36. Nxg7 { [%eval 6.53] } 1-0
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.14"]
+[Round "1.2.4"]
+[White "Abdusattorov, Nodirbek"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[Board "2"]
+[TimeControl "900+3"]
+[WhiteFideId "14204118"]
+[BlackFideId "5202213"]
+[WhiteElo "2727"]
+[BlackElo "2737"]
+[WhiteTeam "UZB"]
+[BlackTeam "USA"]
+[WhiteClock "0:01:19"]
+[BlackClock "0:04:59"]
+[Variant "Standard"]
+
+1. d4 { [%eval 0.24] } 1... d5 { [%eval 0.25] } 2. c4 { [%eval 0.24] } 2... c6
+{ [%eval 0.23] } 3. Nc3 { [%eval 0.3] } 3... Nf6 { [%eval 0.23] } 4. Nf3
+{ [%eval 0.32] } 4... a6 { [%eval 0.4] } 5. c5 { [%eval 0.42] } 5... Bf5
+{ [%eval 0.57] } 6. Bf4 { [%eval 0.46] } 6... Nbd7 { [%eval 0.46] } 7. e3
+{ [%eval 0.25] } 7... Nh5 { [%eval 0.32] } 8. Be5 { [%eval 0.05] } 8... f6
+{ [%eval 0.04] } 9. Bg3 { [%eval 0.01] } 9... e5 { [%eval 0.06] } 10. b4
+{ [%eval -0.24] } 10... g6 { [%eval -0.29] } 11. Bh4 { [%eval -0.41] } 11...
+Be7 { [%eval -0.49] } 12. Be2 { [%eval -0.44] } 12... Be6 { [%eval -0.16] } 13.
+h3 { [%eval -0.48] } 13... O-O { [%eval -0.49] } 14. O-O { [%eval -0.51] }
+14... g5 { [%eval -0.26] } 15. Ne1 { [%eval -0.42] } 15... Ng7
+{ [%eval -0.42] } 16. Bg3 { [%eval -0.4] } 16... e4 { [%eval -0.49] } 17. Nc2
+{ [%eval -0.63] } 17... f5 { [%eval -0.66] } 18. f4 { [%eval -0.79] } 18...
+exf3 { [%eval -0.67] } 19. Bxf3 { [%eval -0.68] } 19... Qe8 { [%eval -0.7] }
+20. Be2 { [%eval -0.63] } 20... Qg6 { [%eval -0.72] } 21. Bd3 { [%eval -0.63] }
+21... Qh6 { [%eval -0.61] } 22. Bh2 { [%eval -0.74] } 22... Nh5
+{ [%eval -0.58] } 23. Be2 { [%eval -0.76] } 23... Ndf6 { [%eval -0.82] } 24.
+Be5 { [%eval -1.68] } 24... g4 { [%eval -1.88] } 25. h4 { [%eval -3.86] } 25...
+Nd7 { [%eval -4.04] } 26. Bf4 { [%eval -3.99] } 26... Nxf4 { [%eval -4.08] }
+27. exf4 { [%eval -4.15] } 27... Qxh4 { [%eval -4.01] } 28. Re1
+{ [%eval -4.87] } 28... Nf6 { [%eval -4.98] } 29. Ne3 { [%eval -5.31] } 29...
+Ne4 { [%eval -4.38] } 30. Nxe4 { [%eval -4.7] } 30... dxe4 { [%eval -4.67] }
+1/2-1/2
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.14"]
+[Round "1.3.1"]
+[White "So, Wesley"]
+[Black "Abdusattorov, Nodirbek"]
+[Result "1/2-1/2"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "5202213"]
+[BlackFideId "14204118"]
+[WhiteElo "2737"]
+[BlackElo "2727"]
+[WhiteTeam "USA"]
+[BlackTeam "UZB"]
+[WhiteClock "0:00:11"]
+[BlackClock "0:00:42"]
+[Variant "Standard"]
+
+1. e4 { [%eval 0.31] } 1... e5 { [%eval 0.24] } 2. Nf3 { [%eval 0.24] } 2...
+Nc6 { [%eval 0.26] } 3. Bc4 { [%eval 0.1] } 3... Nf6 { [%eval 0.09] } 4. Ng5
+{ [%eval 0.12] } 4... d5 { [%eval 0.15] } 5. exd5 { [%eval 0.18] } 5... Na5
+{ [%eval 0.06] } 6. Bb5+ { [%eval 0.12] } 6... c6 { [%eval 0.07] } 7. dxc6
+{ [%eval 0.01] } 7... bxc6 { [%eval 0.05] } 8. Bd3 { [%eval 0.1] } 8... Ng4
+{ [%eval 0.23] } 9. Ne4 { [%eval 0.28] } 9... f5 { [%eval 0.25] } 10. Be2
+{ [%eval 0.23] } 10... h5 { [%eval 0.26] } 11. h3 { [%eval 0.19] } 11... fxe4
+{ [%eval 0.16] } 12. hxg4 { [%eval 0.24] } 12... Bc5 { [%eval 0.2] } 13. Nc3
+{ [%eval 0.14] } 13... Qd4 { [%eval 0.17] } 14. O-O { [%eval 0.24] } 14... O-O
+{ [%eval 0.13] } 15. Qe1 { [%eval 0.12] } 15... hxg4 { [%eval 0.23] } 16. d3
+{ [%eval 0.15] } 16... exd3 { [%eval 0.15] } 17. Bxd3 { [%eval 0.13] } 17...
+Rxf2 { [%eval 0.14] } 18. Qxf2 { [%eval 0.18] } 18... Qxf2+ { [%eval 0.13] }
+19. Rxf2 { [%eval 0.16] } 19... g3 { [%eval 0.16] } 20. Ne4 { [%eval 0.15] }
+20... gxf2+ { [%eval 0.1] } 21. Kf1 { [%eval 0.09] } 21... Bd4 { [%eval 0.17] }
+22. Bd2 { [%eval 0.18] } 22... Nb7 { [%eval 0.16] } 23. c3 { [%eval -0.15] }
+23... Bb6 { [%eval -0.22] } 24. Bc4+ { [%eval -0.34] } 24... Kh7
+{ [%eval 0.0] } 25. Nxf2 { [%eval -0.03] } 25... Bf5 { [%eval 0.03] } 26. Re1
+{ [%eval 0.04] } 26... Nd6 { [%eval 0.0] } 27. Bb3 { [%eval -0.0] } 27... Re8
+{ [%eval 0.0] } 28. Be3 { [%eval -0.0] } 28... Bxe3 { [%eval 0.0] } 29. Rxe3
+{ [%eval -0.0] } 29... Kg6 { [%eval 0.18] } 30. Ba4 { [%eval 0.14] } 30... Nc4
+{ [%eval 0.44] } 31. Rg3+ { [%eval 0.32] } 31... Kf6 { [%eval 0.2] } 32. b3
+{ [%eval 0.05] } 32... Na5 { [%eval 0.57] } 33. Ke2 { [%eval 0.46] } 33... e4
+{ [%eval 0.82] } 34. Ng4+ { [%eval 0.48] } 34... Bxg4+ { [%eval 0.46] } 35.
+Rxg4 { [%eval 0.4] } 35... g5 { [%eval 0.45] } 36. Rg3 { [%eval 0.47] } 36...
+Rh8 { [%eval 0.97] } 37. b4 { [%eval 1.09] } 37... Nc4 { [%eval 0.98] } 38.
+Bxc6 { [%eval 0.89] } 38... Kf5 { [%eval 1.04] } 39. Bd7+ { [%eval 1.17] }
+39... Kf6 { [%eval 1.19] } 40. Bc6 { [%eval 1.04] } 40... Kf5 { [%eval 1.18] }
+41. Bd7+ { [%eval 1.26] } 41... Kf6 { [%eval 1.16] } 42. Rh3 { [%eval 1.13] }
+42... Rd8 { [%eval 1.24] } 43. Rh7 { [%eval 0.5] } 43... e3 { [%eval 1.09] }
+44. a4 { [%eval 0.7] } 44... a5 { [%eval 0.48] } 45. bxa5 { [%eval 0.42] }
+45... Nxa5 { [%eval 0.34] } 46. Kxe3 { [%eval 0.3] } 46... Kg6 { [%eval 0.33] }
+47. Re7 { [%eval 0.34] } 47... Kf6 { [%eval 0.25] } 48. Rh7 { [%eval 0.18] }
+48... Kg6 { [%eval 0.11] } 49. Re7 { [%eval 0.27] } 49... Kf6 { [%eval 0.23] }
+50. Re6+ { [%eval 0.2] } 50... Kf7 { [%eval 0.11] } 51. Ra6 { [%eval 0.1] }
+51... Nc4+ { [%eval 0.07] } 52. Kd4 { [%eval 0.07] } 52... Na3 { [%eval 0.28] }
+53. Ra7 { [%eval 0.24] } 53... Ke7 { [%eval 0.25] } 54. Ke4 { [%eval 0.22] }
+54... Rxd7 { [%eval 0.21] } 55. Rxd7+ { [%eval 0.22] } 55... Kxd7
+{ [%eval 0.2] } 56. Kf5 { [%eval 0.21] } 56... Nb1 { [%eval 0.2] } 57. c4
+{ [%eval 0.27] } 57... Nd2 { [%eval 0.24] } 58. Kxg5 { [%eval 0.23] } 58...
+Nxc4 { [%eval 0.21] } 59. Kf4 { [%eval 0.24] } 59... Nd6 { [%eval 0.22] } 60.
+g4 { [%eval 0.17] } 60... Nf7 { [%eval 0.16] } 61. g5 { [%eval -0.0] } 61...
+Nxg5 { [%eval 0.0] } 1/2-1/2
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.14"]
+[Round "1.3.2"]
+[White "Abdusattorov, Nodirbek"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "14204118"]
+[BlackFideId "5202213"]
+[WhiteElo "2727"]
+[BlackElo "2737"]
+[WhiteTeam "UZB"]
+[BlackTeam "USA"]
+[WhiteClock "0:00:57"]
+[BlackClock "0:00:59"]
+[Variant "Standard"]
+
+1. e4 { [%eval 0.31] } 1... e5 { [%eval 0.24] } 2. Nf3 { [%eval 0.24] } 2...
+Nc6 { [%eval 0.26] } 3. Bb5 { [%eval 0.22] } 3... Nf6 { [%eval 0.2] } 4. d3
+{ [%eval 0.17] } 4... Bc5 { [%eval 0.12] } 5. Ba4 { [%eval 0.13] } 5... O-O
+{ [%eval 0.18] } 6. O-O { [%eval 0.16] } 6... Re8 { [%eval 0.29] } 7. c3
+{ [%eval -0.09] } 7... d5 { [%eval 0.0] } 8. Nbd2 { [%eval -0.04] } 8... h6
+{ [%eval -0.04] } 9. Re1 { [%eval -0.05] } 9... dxe4 { [%eval -0.02] } 10. dxe4
+{ [%eval -0.02] } 10... a5 { [%eval 0.0] } 11. Qe2 { [%eval -0.02] } 11... Bd7
+{ [%eval 0.0] } 12. Nf1 { [%eval -0.13] } 12... Rb8 { [%eval 0.08] } 13. Ng3
+{ [%eval 0.15] } 13... Bd6 { [%eval 0.16] } 14. Bb5 { [%eval 0.03] } 14... Ne7
+{ [%eval 0.08] } 15. Nh4 { [%eval -0.18] } 15... Bxb5 { [%eval 0.04] } 16. Qxb5
+{ [%eval 0.08] } 16... Qd7 { [%eval 0.06] } 17. Qxd7 { [%eval 0.02] } 17...
+Nxd7 { [%eval 0.03] } 18. Nhf5 { [%eval -0.02] } 18... Nxf5 { [%eval 0.0] } 19.
+Nxf5 { [%eval -0.0] } 19... Bc5 { [%eval 0.0] } 20. Kf1 { [%eval -0.0] } 20...
+h5 { [%eval 0.0] } 21. Rd1 { [%eval -0.04] } 21... Red8 { [%eval -0.06] } 22.
+Ke2 { [%eval -0.07] } 22... g6 { [%eval -0.07] } 23. Ne3 { [%eval -0.06] }
+23... Nb6 { [%eval -0.06] } 24. Rxd8+ { [%eval -0.05] } 24... Rxd8
+{ [%eval -0.08] } 25. b3 { [%eval -0.12] } 25... a4 { [%eval -0.01] } 26. Nc2
+{ [%eval -0.11] } 26... f6 { [%eval 0.04] } 27. b4 { [%eval -0.0] } 27... Bf8
+{ [%eval 0.0] } 28. Na3 { [%eval -0.0] } 28... Kf7 { [%eval 0.0] } 29. Be3
+{ [%eval -0.0] } 29... Nc8 { [%eval 0.11] } 30. f3 { [%eval -0.0] } 30... Ke6
+{ [%eval 0.15] } 31. Nc4 { [%eval -0.0] } 31... Nd6 { [%eval 0.02] } 32. Rd1
+{ [%eval -0.09] } 32... Be7 { [%eval 0.18] } 33. Nxd6 { [%eval 0.16] } 33...
+Bxd6 { [%eval 0.17] } 34. b5 { [%eval 0.04] } 34... f5 { [%eval 0.0] } 35. c4
+{ [%eval -0.0] } 35... Ra8 { [%eval 0.0] } 36. c5 { [%eval -0.0] } 36... Be7
+{ [%eval 0.0] } 37. Kd3 { [%eval -0.0] } 37... a3 { [%eval 0.0] } 38. Rc1
+{ [%eval -0.0] } 38... fxe4+ { [%eval 0.0] } 39. fxe4 { [%eval -0.0] } 39...
+Ra5 { [%eval 0.0] } 40. Rb1 { [%eval -0.0] } 40... Ra4 { [%eval 0.0] } 41. h3
+{ [%eval -0.0] } 41... Kd7 { [%eval 0.0] } 42. Rb3 { [%eval -0.0] } 42... Ke6
+{ [%eval 0.0] } 43. Rb1 { [%eval -0.0] } 43... Kd7 { [%eval 0.0] } 44. Rb3
+{ [%eval -0.0] } 44... Ke6 { [%eval 0.0] } 45. Rb1 { [%eval -0.0] } 1/2-1/2
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.14"]
+[Round "1.3.3"]
+[White "So, Wesley"]
+[Black "Abdusattorov, Nodirbek"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "5202213"]
+[BlackFideId "14204118"]
+[WhiteElo "2737"]
+[BlackElo "2727"]
+[WhiteTeam "USA"]
+[BlackTeam "UZB"]
+[WhiteClock "0:02:31"]
+[BlackClock "0:00:08"]
+[Variant "Standard"]
+
+1. c4 { [%eval 0.23] } 1... e6 { [%eval 0.23] } 2. g3 { [%eval 0.21] } 2... d5
+{ [%eval 0.21] } 3. Bg2 { [%eval 0.25] } 3... Nf6 { [%eval 0.18] } 4. Nf3
+{ [%eval 0.22] } 4... c5 { [%eval 0.4] } 5. cxd5 { [%eval 0.39] } 5... exd5
+{ [%eval 0.47] } 6. d4 { [%eval 0.32] } 6... Be7 { [%eval 0.32] } 7. O-O
+{ [%eval 0.34] } 7... O-O { [%eval 0.32] } 8. dxc5 { [%eval 0.27] } 8... Bxc5
+{ [%eval 0.32] } 9. a3 { [%eval 0.3] } 9... h6 { [%eval 0.27] } 10. b4
+{ [%eval 0.15] } 10... Be7 { [%eval 0.59] } 11. Bb2 { [%eval 0.21] } 11... a5
+{ [%eval 0.23] } 12. b5 { [%eval 0.04] } 12... Nbd7 { [%eval 0.18] } 13. Nc3
+{ [%eval -0.15] } 13... Nb6 { [%eval -0.16] } 14. Na4 { [%eval -0.34] } 14...
+Nc4 { [%eval -0.44] } 15. Bd4 { [%eval -0.38] } 15... Bd7 { [%eval 0.0] } 16.
+Qb3 { [%eval -0.0] } 16... Ne4 { [%eval 0.0] } 17. Rfd1 { [%eval -0.0] } 17...
+Be6 { [%eval 0.0] } 18. Nb2 { [%eval -0.04] } 18... Ncd6 { [%eval 0.09] } 19.
+a4 { [%eval -0.0] } 19... Nf5 { [%eval 0.1] } 20. Nd3 { [%eval 0.01] } 20...
+Rc8 { [%eval 0.12] } 21. Rac1 { [%eval 0.06] } 21... Qd6 { [%eval 0.13] } 22.
+Be5 { [%eval 0.01] } 22... Qb6 { [%eval 0.1] } 23. Qb2 { [%eval 0.1] } 23...
+Bf6 { [%eval 0.91] } 24. Bxf6 { [%eval 0.86] } 24... Nxf6 { [%eval 0.69] } 25.
+Nd2 { [%eval -0.0] } 25... Nd4 { [%eval 0.84] } 26. Nf4 { [%eval 0.94] } 26...
+Bg4 { [%eval 1.1] } 27. Nf1 { [%eval 0.49] } 27... Rxc1 { [%eval 0.55] } 28.
+Rxc1 { [%eval 0.68] } 28... Rd8 { [%eval 2.23] } 29. Ne3 { [%eval 2.09] } 29...
+Be6 { [%eval 2.54] } 30. Rd1 { [%eval 2.5] } 30... Nf5 { [%eval 2.48] } 31.
+Nexd5 { [%eval 2.7] } 31... Bxd5 { [%eval 3.0] } 32. Nxd5 { [%eval 2.98] }
+32... Nxd5 { [%eval 3.06] } 33. Bxd5 { [%eval 2.32] } 33... Ne7 { [%eval 2.4] }
+34. Bb3 { [%eval 2.51] } 34... Rxd1+ { [%eval 2.32] } 35. Bxd1 { [%eval 2.38] }
+35... Qd6 { [%eval 2.79] } 36. Bb3 { [%eval 2.76] } 36... b6 { [%eval 2.9] }
+37. Qc2 { [%eval 2.44] } 37... g5 { [%eval 2.61] } 38. Qe4 { [%eval 2.16] }
+38... Kg7 { [%eval 2.38] } 39. e3 { [%eval 2.23] } 39... Qf6 { [%eval 2.38] }
+40. Kg2 { [%eval 2.32] } 40... Kf8 { [%eval 2.88] } 41. Qa8+ { [%eval 2.94] }
+41... Kg7 { [%eval 2.99] } 42. Qe4 { [%eval 2.27] } 42... Kf8 { [%eval 3.14] }
+43. Qa8+ { [%eval 3.14] } 43... Kg7 { [%eval 3.15] } 44. Qd8 { [%eval 2.25] }
+44... Qe5 { [%eval 4.58] } 45. Qxb6 { [%eval 4.61] } 45... Qe4+
+{ [%eval 4.76] } 46. f3 { [%eval 5.04] } 46... Qb1 { [%eval 5.11] } 47. Qd4+
+{ [%eval 5.02] } 47... f6 { [%eval 7.71] } 48. Qc4 { [%eval 8.24] } 48... Qg6
+{ [%eval 8.48] } 49. b6 { [%eval 8.23] } 49... Qe8 { [%eval 8.58] } 50. b7
+{ [%eval 7.86] } 50... Nc6 { [%eval 11.41] } 51. Qxc6 { [%eval 12.26] } 1-0
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.15"]
+[Round "2.1.1"]
+[White "So, Wesley"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "5202213"]
+[BlackFideId "1503014"]
+[WhiteElo "2737"]
+[BlackElo "2818"]
+[WhiteTeam "USA"]
+[BlackTeam "NOR"]
+[WhiteClock "0:00:08"]
+[BlackClock "0:00:10"]
+[Variant "Standard"]
+
+1. b3 { [%eval -0.22] } 1... g6 { [%eval 0.15] } 2. Bb2 { [%eval 0.12] } 2...
+Nf6 { [%eval 0.17] } 3. c4 { [%eval 0.05] } 3... b6 { [%eval 0.16] } 4. Nf3
+{ [%eval 0.17] } 4... Bg7 { [%eval 0.18] } 5. d4 { [%eval 0.19] } 5... O-O
+{ [%eval 0.18] } 6. g3 { [%eval 0.2] } 6... Bb7 { [%eval 0.17] } 7. Bg2
+{ [%eval 0.16] } 7... e6 { [%eval 0.16] } 8. O-O { [%eval 0.21] } 8... Na6
+{ [%eval 0.29] } 9. e3 { [%eval 0.24] } 9... d5 { [%eval 0.26] } 10. cxd5
+{ [%eval 0.19] } 10... exd5 { [%eval 0.15] } 11. Nc3 { [%eval 0.15] } 11... Qe7
+{ [%eval 0.19] } 12. Rc1 { [%eval 0.17] } 12... Rfd8 { [%eval 0.18] } 13. Re1
+{ [%eval 0.27] } 13... c5 { [%eval 0.35] } 14. Nb5 { [%eval -0.05] } 14... Ne4
+{ [%eval -0.06] } 15. Qe2 { [%eval -0.13] } 15... Nb4 { [%eval -0.1] } 16. a3
+{ [%eval -0.05] } 16... Na2 { [%eval -0.07] } 17. Ra1 { [%eval -0.05] } 17...
+a6 { [%eval -0.18] } 18. dxc5 { [%eval -0.11] } 18... axb5 { [%eval 0.04] } 19.
+Bxg7 { [%eval -0.06] } 19... Kxg7 { [%eval -0.05] } 20. Qxa2 { [%eval -0.12] }
+20... bxc5 { [%eval 0.0] } 21. b4 { [%eval -0.0] } 21... cxb4 { [%eval 0.17] }
+22. Qb2+ { [%eval 0.07] } 22... Qf6 { [%eval 0.03] } 23. Qxb4 { [%eval -0.0] }
+23... d4 { [%eval 0.0] } 24. exd4 { [%eval -0.0] } 24... Nd6 { [%eval 0.0] }
+25. Ne5 { [%eval -0.0] } 25... Ra4 { [%eval 0.02] } 26. Qb2 { [%eval -0.0] }
+26... Bxg2 { [%eval 0.05] } 27. Kxg2 { [%eval -0.0] } 27... Nc4
+{ [%eval 0.19] } 28. Qxb5 { [%eval 0.19] } 28... Rxd4 { [%eval 0.16] } 29. Nf3
+{ [%eval 0.02] } 29... Ra5 { [%eval -0.03] } 30. Qb3 { [%eval -0.0] } 30... Nd2
+{ [%eval 0.0] } 31. Qc3 { [%eval -0.0] } 31... Nxf3 { [%eval 0.0] } 32. Qxf3
+{ [%eval -0.0] } 32... Qxf3+ { [%eval 0.03] } 33. Kxf3 { [%eval 0.06] } 33...
+g5 { [%eval 0.06] } 34. h3 { [%eval 0.04] } 34... h5 { [%eval 0.08] } 35. Kg2
+{ [%eval -0.0] } 35... Rd3 { [%eval 0.0] } 36. Re3 { [%eval -0.0] } 36... Rxe3
+{ [%eval 0.0] } 37. fxe3 { [%eval -0.0] } 37... Ra4 { [%eval 0.0] } 38. Kf3
+{ [%eval -0.0] } 38... f5 { [%eval 0.0] } 39. Ke2 { [%eval -0.0] } 39... Kf6
+{ [%eval 0.0] } 40. Ra2 { [%eval -0.0] } 40... Ke5 { [%eval 0.0] } 41. Kf3
+{ [%eval -0.0] } 41... h4 { [%eval 0.0] } 42. gxh4 { [%eval -0.0] } 42... Rxh4
+{ [%eval 0.0] } 43. Kg2 { [%eval -0.0] } 43... Ra4 { [%eval 0.0] } 44. Kf3
+{ [%eval -0.0] } 44... Rh4 { [%eval 0.0] } 1/2-1/2
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.15"]
+[Round "2.1.2"]
+[White "Carlsen, Magnus"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "1503014"]
+[BlackFideId "5202213"]
+[WhiteElo "2818"]
+[BlackElo "2737"]
+[WhiteTeam "NOR"]
+[BlackTeam "USA"]
+[WhiteClock "0:05:56"]
+[BlackClock "0:08:17"]
+[Variant "Standard"]
+
+1. c4 { [%eval 0.23] } 1... e5 { [%eval 0.31] } 2. Nc3 { [%eval 0.12] } 2...
+Nf6 { [%eval 0.15] } 3. Nf3 { [%eval 0.14] } 3... Nc6 { [%eval 0.08] } 4. g3
+{ [%eval 0.08] } 4... d5 { [%eval 0.12] } 5. cxd5 { [%eval 0.1] } 5... Nxd5
+{ [%eval 0.13] } 6. Bg2 { [%eval 0.11] } 6... Nf6 { [%eval 0.21] } 7. O-O
+{ [%eval 0.2] } 7... h6 { [%eval 0.19] } 8. a3 { [%eval 0.22] } 8... a5
+{ [%eval 0.16] } 9. b3 { [%eval 0.06] } 9... Bd6 { [%eval 0.11] } 10. d4
+{ [%eval 0.13] } 10... O-O { [%eval 0.17] } 11. Bb2 { [%eval 0.12] } 11... e4
+{ [%eval 0.29] } 12. Nd2 { [%eval 0.28] } 12... Nxd4 { [%eval 0.27] } 13. Ndxe4
+{ [%eval 0.26] } 13... Be5 { [%eval 0.3] } 14. Nxf6+ { [%eval 0.11] } 14...
+Bxf6 { [%eval 0.1] } 15. e3 { [%eval 0.07] } 15... Nb5 { [%eval 0.07] } 16.
+Nxb5 { [%eval 0.08] } 16... Bxb2 { [%eval 0.07] } 17. Qxd8 { [%eval 0.08] }
+17... Rxd8 { [%eval 0.2] } 18. Nxc7 { [%eval 0.17] } 18... Bxa1
+{ [%eval 0.13] } 19. Nxa8 { [%eval 0.1] } 19... Bb2 { [%eval 0.15] } 20. Nb6
+{ [%eval 0.15] } 20... Bxa3 { [%eval 0.15] } 21. Nxc8 { [%eval 0.18] } 21...
+Rxc8 { [%eval 0.15] } 22. Bxb7 { [%eval 0.16] } 22... Rc1 { [%eval 0.17] } 23.
+Rxc1 { [%eval 0.17] } 23... Bxc1 { [%eval 0.17] } 24. Kf1 { [%eval 0.16] }
+24... g5 { [%eval 0.17] } 25. Ke2 { [%eval 0.13] } 25... Ba3 { [%eval 0.14] }
+26. f4 { [%eval 0.18] } 26... gxf4 { [%eval 0.19] } 27. gxf4 { [%eval 0.16] }
+27... f6 { [%eval 0.11] } 28. Kf3 { [%eval 0.06] } 28... Kg7 { [%eval 0.04] }
+29. Kg4 { [%eval 0.09] } 29... Bc5 { [%eval 0.1] } 30. e4 { [%eval 0.02] }
+30... Kg6 { [%eval 0.01] } 31. Bc8 { [%eval 0.03] } 31... Bd6 { [%eval 0.0] }
+32. Bf5+ { [%eval 0.01] } 32... Kf7 { [%eval 0.0] } 33. h4 { [%eval -0.0] }
+33... Bc7 { [%eval 0.0] } 34. Bd7 { [%eval -0.0] } 34... Bb8 { [%eval 0.0] }
+35. Kf5 { [%eval -0.0] } 35... Bd6 { [%eval 0.0] } 36. Bb5 { [%eval -0.0] }
+36... Bc7 { [%eval 0.0] } 37. Bc4+ { [%eval -0.0] } 37... Ke7 { [%eval 0.0] }
+38. e5 { [%eval -0.0] } 38... fxe5 { [%eval 0.0] } 39. fxe5 { [%eval -0.0] }
+39... Bb6 { [%eval 0.0] } 40. h5 { [%eval -0.0] } 40... Bd4 { [%eval 0.0] } 41.
+Ke4 { [%eval -0.0] } 1/2-1/2
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.15"]
+[Round "2.1.3"]
+[White "So, Wesley"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "5202213"]
+[BlackFideId "1503014"]
+[WhiteElo "2737"]
+[BlackElo "2818"]
+[WhiteTeam "USA"]
+[BlackTeam "NOR"]
+[WhiteClock "0:00:05"]
+[BlackClock "0:00:18"]
+[Variant "Standard"]
+
+1. e4 { [%eval 0.31] } 1... c5 { [%eval 0.29] } 2. Nf3 { [%eval 0.3] } 2... a6
+{ [%eval 0.46] } 3. Be2 { [%eval 0.22] } 3... d6 { [%eval 0.36] } 4. d4
+{ [%eval 0.48] } 4... cxd4 { [%eval 0.43] } 5. Qxd4 { [%eval 0.47] } 5... Nc6
+{ [%eval 0.47] } 6. Qd3 { [%eval 0.16] } 6... g6 { [%eval 0.28] } 7. O-O
+{ [%eval 0.22] } 7... Bg7 { [%eval 0.21] } 8. Nc3 { [%eval 0.05] } 8... Nf6
+{ [%eval 0.22] } 9. Nd5 { [%eval 0.2] } 9... O-O { [%eval 0.19] } 10. c3
+{ [%eval 0.17] } 10... b5 { [%eval 0.33] } 11. Bg5 { [%eval 0.29] } 11... Nxd5
+{ [%eval 0.53] } 12. exd5 { [%eval 0.56] } 12... Ne5 { [%eval 0.53] } 13. Nxe5
+{ [%eval 0.5] } 13... Bxe5 { [%eval 0.55] } 14. h4 { [%eval 0.19] } 14... Bf5
+{ [%eval 0.25] } 15. Qd2 { [%eval 0.19] } 15... h5 { [%eval 0.16] } 16. Bd3
+{ [%eval -0.0] } 16... Qd7 { [%eval 0.0] } 17. Rae1 { [%eval -0.0] } 17... Rfe8
+{ [%eval 0.0] } 18. Re3 { [%eval -0.0] } 18... Rac8 { [%eval 0.0] } 19. Rfe1
+{ [%eval -0.0] } 19... Bxd3 { [%eval 0.0] } 20. Qxd3 { [%eval 0.01] } 20... Rc4
+{ [%eval 0.03] } 21. g3 { [%eval 0.06] } 21... Rec8 { [%eval 0.0] } 22. Re4
+{ [%eval -0.22] } 22... Kg7 { [%eval -0.24] } 23. Kg2 { [%eval -0.27] } 23...
+a5 { [%eval -0.24] } 24. a3 { [%eval -0.26] } 24... R8c5 { [%eval -0.27] } 25.
+f4 { [%eval -0.38] } 25... Rxe4 { [%eval -0.4] } 26. Rxe4 { [%eval -0.38] }
+26... Bf6 { [%eval -0.35] } 27. Bxf6+ { [%eval -0.33] } 27... exf6
+{ [%eval -0.3] } 28. Rd4 { [%eval -0.29] } 28... Rc8 { [%eval -0.29] } 29. Re4
+{ [%eval -0.32] } 29... Rb8 { [%eval -0.32] } 30. Kh2 { [%eval -0.36] } 30...
+Qf5 { [%eval -0.28] } 31. Re3 { [%eval -0.31] } 31... Qxd3 { [%eval -0.32] }
+32. Rxd3 { [%eval -0.29] } 32... Re8 { [%eval -0.22] } 33. Rd2 { [%eval -0.2] }
+33... g5 { [%eval -0.07] } 34. Kg2 { [%eval -0.45] } 34... gxh4
+{ [%eval -0.44] } 35. gxh4 { [%eval -0.46] } 35... Re3 { [%eval -0.34] } 36. f5
+{ [%eval -0.82] } 36... Kf8 { [%eval -0.7] } 37. Kf2 { [%eval -0.7] } 37... Re5
+{ [%eval -0.61] } 38. b4 { [%eval -1.32] } 38... axb4 { [%eval -0.45] } 39.
+axb4 { [%eval -0.37] } 39... Rxf5+ { [%eval -0.35] } 40. Ke3 { [%eval -0.3] }
+40... Re5+ { [%eval -0.28] } 41. Kf4 { [%eval -0.27] } 41... Ke7
+{ [%eval -0.24] } 42. Rd4 { [%eval -0.25] } 42... Kd7 { [%eval -0.24] } 43. Rd1
+{ [%eval -0.24] } 43... Re2 { [%eval -0.05] } 44. Ra1 { [%eval -0.03] } 44...
+Rd2 { [%eval -0.05] } 45. Ra7+ { [%eval -0.0] } 45... Ke8 { [%eval -0.05] } 46.
+Kf5 { [%eval -0.13] } 46... Rf2+ { [%eval -0.19] } 47. Ke4 { [%eval -0.19] }
+47... f5+ { [%eval -0.19] } 48. Ke3 { [%eval -0.16] } 48... Rc2
+{ [%eval -0.07] } 49. Kf4 { [%eval -0.12] } 49... Rxc3 { [%eval -0.03] } 50.
+Kxf5 { [%eval -0.0] } 50... Rc4 { [%eval 0.0] } 51. Kg5 { [%eval -0.0] } 51...
+Rxb4 { [%eval 0.0] } 52. Rb7 { [%eval -0.16] } 52... Rb1 { [%eval -0.12] } 53.
+Kxh5 { [%eval -0.21] } 53... b4 { [%eval -0.22] } 54. Kh6 { [%eval -0.22] }
+54... f5 { [%eval 0.07] } 55. h5 { [%eval -3.98] } 55... f4 { [%eval -4.84] }
+56. Kg5 { [%eval -6.68] } 56... f3 { [%eval -6.86] } 57. h6 { [%eval -8.74] }
+57... f2 { [%eval -9.46] } 58. Rb8+ { [%eval -13.26] } 58... Kd7
+{ [%eval -9.9] } 59. Rb7+ { [%eval -13.32] } 59... Kc8 { [%eval -10.69] } 60.
+h7 { [%eval -99.89] } 60... Rg1+ { [%eval -99.9] } 0-1
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.15"]
+[Round "2.1.4"]
+[White "Carlsen, Magnus"]
+[Black "So, Wesley"]
+[Result "1/2-1/2"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "1503014"]
+[BlackFideId "5202213"]
+[WhiteElo "2818"]
+[BlackElo "2737"]
+[WhiteTeam "NOR"]
+[BlackTeam "USA"]
+[WhiteClock "0:00:26"]
+[BlackClock "0:00:18"]
+[Variant "Standard"]
+
+1. e4 { [%eval 0.31] } 1... c5 { [%eval 0.29] } 2. c3 { [%eval 0.21] } 2... Nf6
+{ [%eval 0.04] } 3. e5 { [%eval 0.01] } 3... Nd5 { [%eval 0.08] } 4. Nf3
+{ [%eval -0.0] } 4... d6 { [%eval 0.09] } 5. d4 { [%eval 0.04] } 5... cxd4
+{ [%eval 0.09] } 6. Qxd4 { [%eval -0.04] } 6... e6 { [%eval -0.06] } 7. Bc4
+{ [%eval -0.28] } 7... Nc6 { [%eval -0.37] } 8. Qe4 { [%eval -0.33] } 8... Be7
+{ [%eval -0.02] } 9. O-O { [%eval -0.08] } 9... O-O { [%eval 0.0] } 10. exd6
+{ [%eval -0.0] } 10... Qxd6 { [%eval 0.01] } 11. Re1 { [%eval -0.05] } 11...
+Rd8 { [%eval -0.01] } 12. Nbd2 { [%eval -0.15] } 12... b6 { [%eval -0.13] } 13.
+Qe2 { [%eval -0.46] } 13... Nf4 { [%eval -0.38] } 14. Qf1 { [%eval -0.38] }
+14... Qc7 { [%eval -0.31] } 15. Nb3 { [%eval -0.32] } 15... Bf6
+{ [%eval -0.3] } 16. Be3 { [%eval -0.35] } 16... a6 { [%eval -0.35] } 17. Rad1
+{ [%eval -0.36] } 17... Bb7 { [%eval -0.3] } 18. Rxd8+ { [%eval -0.24] } 18...
+Bxd8 { [%eval -0.18] } 19. Rd1 { [%eval -0.33] } 19... Be7 { [%eval -0.25] }
+20. Bxf4 { [%eval -0.19] } 20... Qxf4 { [%eval -0.18] } 21. Qe2
+{ [%eval -0.28] } 21... b5 { [%eval -0.34] } 22. Bd3 { [%eval -0.3] } 22... Rd8
+{ [%eval -0.29] } 23. g3 { [%eval -0.33] } 23... Qg4 { [%eval -0.34] } 24. Nfd4
+{ [%eval -0.36] } 24... Qxe2 { [%eval -0.31] } 25. Bxe2 { [%eval -0.29] } 25...
+Nxd4 { [%eval -0.23] } 26. Nxd4 { [%eval -0.37] } 26... Bc5 { [%eval -0.2] }
+27. Kf1 { [%eval -0.22] } 27... g6 { [%eval -0.18] } 28. Ke1 { [%eval -0.32] }
+28... e5 { [%eval -0.28] } 29. Nb3 { [%eval -0.3] } 29... Rxd1+
+{ [%eval -0.28] } 30. Bxd1 { [%eval -0.28] } 30... Bb6 { [%eval -0.27] } 31.
+Nd2 { [%eval -0.31] } 31... Bc6 { [%eval -0.3] } 32. Bf3 { [%eval -0.29] }
+32... Bd7 { [%eval -0.25] } 33. Bd5 { [%eval -0.26] } 33... Kf8
+{ [%eval -0.18] } 34. b4 { [%eval -0.17] } 34... Ke7 { [%eval -0.16] } 35. c4
+{ [%eval -0.22] } 35... a5 { [%eval 0.09] } 36. cxb5 { [%eval -0.14] } 36...
+Bxb5 { [%eval -0.15] } 37. Nc4 { [%eval -0.16] } 37... Bxc4 { [%eval -0.13] }
+38. Bxc4 { [%eval -0.14] } 38... axb4 { [%eval -0.12] } 39. g4
+{ [%eval -0.17] } 39... e4 { [%eval -0.11] } 40. Ke2 { [%eval -0.1] } 40... f5
+{ [%eval -0.01] } 41. gxf5 { [%eval -0.0] } 41... gxf5 { [%eval 0.0] } 42. f3
+{ [%eval -0.0] } 42... e3 { [%eval 0.0] } 43. f4 { [%eval -0.0] } 43... h6
+{ [%eval 0.0] } 44. Bd3 { [%eval -0.0] } 44... Ke6 { [%eval 0.0] } 45. h3
+{ [%eval -0.0] } 45... Kf6 { [%eval 0.0] } 46. Kf3 { [%eval -0.0] } 46... Bc5
+{ [%eval 0.0] } 47. Bc2 { [%eval -0.0] } 47... Bb6 { [%eval 0.0] } 48. Bd3
+{ [%eval -0.0] } 48... Bc5 { [%eval 0.0] } 49. Bc2 { [%eval -0.0] } 49... Bb6
+{ [%eval 0.0] } 1/2-1/2
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.16"]
+[Round "2.2.1"]
+[White "So, Wesley"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "5202213"]
+[BlackFideId "1503014"]
+[WhiteElo "2737"]
+[BlackElo "2818"]
+[WhiteTeam "USA"]
+[BlackTeam "NOR"]
+[WhiteClock "0:00:13"]
+[BlackClock "0:00:18"]
+[Variant "Standard"]
+
+1. b3 { [%eval -0.22] } 1... g6 { [%eval 0.15] } 2. Bb2 { [%eval 0.12] } 2...
+Nf6 { [%eval 0.17] } 3. g3 { [%eval -0.01] } 3... Bg7 { [%eval 0.22] } 4. c4
+{ [%eval 0.08] } 4... O-O { [%eval 0.09] } 5. Bg2 { [%eval -0.0] } 5... d6
+{ [%eval 0.11] } 6. e3 { [%eval -0.16] } 6... e5 { [%eval -0.19] } 7. Ne2
+{ [%eval -0.18] } 7... Re8 { [%eval -0.2] } 8. Nbc3 { [%eval -0.4] } 8... c6
+{ [%eval -0.4] } 9. e4 { [%eval -0.44] } 9... a6 { [%eval -0.22] } 10. O-O
+{ [%eval -0.18] } 10... b5 { [%eval -0.2] } 11. a3 { [%eval -0.53] } 11... Nbd7
+{ [%eval -0.3] } 12. d3 { [%eval -0.23] } 12... Rb8 { [%eval -0.24] } 13. Rb1
+{ [%eval -0.29] } 13... Nc5 { [%eval -0.14] } 14. Ba1 { [%eval -0.67] } 14...
+bxc4 { [%eval -0.4] } 15. bxc4 { [%eval -0.99] } 15... Rxb1 { [%eval -0.93] }
+16. Qxb1 { [%eval -1.07] } 16... Be6 { [%eval -0.78] } 17. Rd1
+{ [%eval -0.84] } 17... Qb8 { [%eval -0.76] } 18. Qc2 { [%eval -0.83] } 18...
+Qb3 { [%eval -0.68] } 19. Qc1 { [%eval -1.21] } 19... Nfd7 { [%eval -1.03] }
+20. d4 { [%eval -1.13] } 20... exd4 { [%eval -1.24] } 21. Nxd4
+{ [%eval -1.22] } 21... Bxd4 { [%eval -1.33] } 22. Rxd4 { [%eval -1.33] } 22...
+Ne5 { [%eval -1.2] } 23. Rxd6 { [%eval -1.22] } 23... Ncd3 { [%eval -1.2] } 24.
+Qd1 { [%eval -1.76] } 24... Qxa3 { [%eval -1.64] } 25. c5 { [%eval -3.02] }
+25... Bb3 { [%eval -2.69] } 26. Qf1 { [%eval -3.25] } 26... Bc4
+{ [%eval -2.17] } 27. Ne2 { [%eval -2.38] } 27... Qxc5 { [%eval -2.56] } 28.
+Rd4 { [%eval -2.51] } 28... Qa3 { [%eval -2.65] } 29. h3 { [%eval -2.65] }
+29... Nc5 { [%eval -1.67] } 30. Qc1 { [%eval -1.59] } 30... Qxc1+
+{ [%eval -1.38] } 31. Nxc1 { [%eval -1.34] } 31... Bb5 { [%eval -1.38] } 32. f4
+{ [%eval -1.57] } 32... Nc4 { [%eval -1.52] } 33. e5 { [%eval -1.58] } 33...
+Ne6 { [%eval -1.4] } 34. Rd7 { [%eval -1.62] } 34... c5 { [%eval -1.49] } 35.
+Rd3 { [%eval -1.56] } 35... a5 { [%eval -1.43] } 36. Rb3 { [%eval -1.71] }
+36... Rd8 { [%eval -0.42] } 37. Nd3 { [%eval -3.37] } 37... a4
+{ [%eval -3.61] } 38. Rxb5 { [%eval -3.78] } 38... Rxd3 { [%eval -3.8] } 39.
+Rb8+ { [%eval -3.9] } 39... Kg7 { [%eval -4.01] } 40. Rb1 { [%eval -4.66] }
+40... Rxg3 { [%eval -4.64] } 41. Kh2 { [%eval -4.78] } 41... Ra3
+{ [%eval -4.49] } 42. f5 { [%eval -4.99] } 42... gxf5 { [%eval -5.04] } 43. Rg1
+{ [%eval -5.06] } 43... Kf8 { [%eval -5.29] } 44. Rc1 { [%eval -5.41] } 44...
+Ne3 { [%eval -5.52] } 45. Bc6 { [%eval -5.71] } 45... Nd4 { [%eval -5.73] } 46.
+Bxd4 { [%eval -5.99] } 46... cxd4 { [%eval -5.98] } 47. Bb5 { [%eval -6.38] }
+47... f4 { [%eval -5.17] } 48. Rc8+ { [%eval -5.26] } 48... Kg7
+{ [%eval -5.45] } 49. Rc7 { [%eval -5.52] } 49... Ra2+ { [%eval -5.21] } 50.
+Kh1 { [%eval -5.48] } 50... Kg6 { [%eval -5.27] } 51. Bd3+ { [%eval -5.42] }
+51... Kg5 { [%eval -5.79] } 52. Rxf7 { [%eval -6.15] } 52... Rd2
+{ [%eval -5.0] } 53. e6 { [%eval -6.11] } 53... Rxd3 { [%eval -6.47] } 54. e7
+{ [%eval -6.56] } 54... Rd1+ { [%eval -6.62] } 55. Kh2 { [%eval -6.45] } 55...
+Nf1+ { [%eval -5.7] } 56. Kg2 { [%eval -5.95] } 56... Re1 { [%eval -6.08] } 57.
+Kf2 { [%eval -6.08] } 57... Re3 { [%eval -5.27] } 58. Kxf1 { [%eval -6.24] }
+58... a3 { [%eval -5.8] } 59. h4+ { [%eval -6.96] } 59... Kg4 { [%eval -6.0] }
+0-1
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.16"]
+[Round "2.2.2"]
+[White "Carlsen, Magnus"]
+[Black "So, Wesley"]
+[Result "0-1"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "1503014"]
+[BlackFideId "5202213"]
+[WhiteElo "2818"]
+[BlackElo "2737"]
+[WhiteTeam "NOR"]
+[BlackTeam "USA"]
+[WhiteClock "0:00:19"]
+[BlackClock "0:00:13"]
+[Variant "Standard"]
+
+1. e4 { [%eval 0.31] } 1... c5 { [%eval 0.29] } 2. Nf3 { [%eval 0.3] } 2... d6
+{ [%eval 0.3] } 3. Bc4 { [%eval 0.13] } 3... Nf6 { [%eval 0.12] } 4. d3
+{ [%eval 0.14] } 4... e6 { [%eval 0.09] } 5. O-O { [%eval 0.02] } 5... Be7
+{ [%eval 0.05] } 6. a4 { [%eval 0.06] } 6... d5 { [%eval 0.17] } 7. Bb5+
+{ [%eval 0.12] } 7... Kf8 { [%eval 0.23] } 8. e5 { [%eval 0.11] } 8... Ng8
+{ [%eval 0.86] } 9. a5 { [%eval 0.89] } 9... a6 { [%eval 0.7] } 10. Ba4
+{ [%eval 0.6] } 10... Qxa5 { [%eval 0.63] } 11. c4 { [%eval 0.7] } 11... d4
+{ [%eval 0.86] } 12. Nbd2 { [%eval 0.27] } 12... Qc7 { [%eval 0.28] } 13. Ne4
+{ [%eval 0.16] } 13... Bd7 { [%eval 0.18] } 14. Bxd7 { [%eval 0.18] } 14...
+Nxd7 { [%eval 0.21] } 15. Bf4 { [%eval 0.32] } 15... h6 { [%eval 0.66] } 16. h4
+{ [%eval 0.54] } 16... g6 { [%eval 1.01] } 17. b4 { [%eval 0.97] } 17... cxb4
+{ [%eval 0.93] } 18. Nxd4 { [%eval 0.96] } 18... Rd8 { [%eval 0.99] } 19. Qf3
+{ [%eval 0.81] } 19... Kg7 { [%eval 0.95] } 20. Nd6 { [%eval 0.65] } 20... Bxd6
+{ [%eval 0.61] } 21. exd6 { [%eval 0.79] } 21... Qc8 { [%eval 0.76] } 22. Rfe1
+{ [%eval 0.23] } 22... Ngf6 { [%eval 0.12] } 23. Nb3 { [%eval -0.0] } 23...
+Rhe8 { [%eval 0.91] } 24. Bc1 { [%eval -0.01] } 24... e5 { [%eval 0.0] } 25.
+Bb2 { [%eval -0.0] } 25... b6 { [%eval -0.17] } 26. g4 { [%eval -0.44] } 26...
+Kg8 { [%eval -0.64] } 27. Nd2 { [%eval -0.49] } 27... Re6 { [%eval 0.0] } 28.
+g5 { [%eval -0.72] } 28... hxg5 { [%eval -0.26] } 29. hxg5 { [%eval -0.36] }
+29... Nh7 { [%eval 0.0] } 30. Qg3 { [%eval -0.0] } 30... Rxd6 { [%eval 0.06] }
+31. d4 { [%eval -0.82] } 31... Rxd4 { [%eval -0.7] } 32. Bxd4 { [%eval -0.71] }
+32... exd4 { [%eval -0.69] } 33. Re7 { [%eval -2.22] } 33... Nc5
+{ [%eval -0.2] } 34. Rae1 { [%eval -0.18] } 34... Rf8 { [%eval 0.41] } 35. Qh4
+{ [%eval 0.55] } 35... b3 { [%eval 3.11] } 36. Kg2 { [%eval 0.75] } 36... Qf5
+{ [%eval 0.78] } 37. R7e5 { [%eval 0.66] } 37... Qd7 { [%eval 0.61] } 38. Rd5
+{ [%eval 0.62] } 38... Qc7 { [%eval 0.97] } 39. Rh1 { [%eval 0.98] } 39... f6
+{ [%eval 1.05] } 40. Ne4 { [%eval 0.42] } 40... fxg5 { [%eval 1.0] } 41. Nxg5
+{ [%eval -0.0] } 41... Nd3 { [%eval 3.55] } 42. Ne6 { [%eval 2.91] } 42... Qf7
+{ [%eval 3.1] } 43. Qxh7+ { [%eval -5.57] } 43... Qxh7 { [%eval -5.76] } 44.
+Rxh7 { [%eval -5.69] } 44... Kxh7 { [%eval -4.74] } 45. Nxf8+ { [%eval -4.7] }
+45... Kg8 { [%eval -4.79] } 46. Rd6 { [%eval -5.07] } 46... b2 { [%eval -5.1] }
+47. Rxb6 { [%eval -5.76] } 47... a5 { [%eval -4.5] } 48. Rb3 { [%eval -5.64] }
+48... a4 { [%eval -4.96] } 49. Rb8 { [%eval -5.06] } 49... a3 { [%eval -5.13] }
+50. Ne6+ { [%eval -5.14] } 50... Kf7 { [%eval -5.29] } 51. Ng5+
+{ [%eval -5.34] } 51... Kg7 { [%eval -4.79] } 52. Rb7+ { [%eval -5.72] } 52...
+Kg8 { [%eval -4.99] } 53. Ne4 { [%eval -6.5] } 53... a2 { [%eval -6.41] } 54.
+Nf6+ { [%eval -7.01] } 54... Kf8 { [%eval -6.36] } 55. Rd7 { [%eval -7.51] }
+55... Nf4+ { [%eval -7.77] } 56. Kf3 { [%eval -7.9] } 56... Nh5
+{ [%eval -8.01] } 0-1
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.16"]
+[Round "2.2.3"]
+[White "So, Wesley"]
+[Black "Carlsen, Magnus"]
+[Result "1/2-1/2"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "5202213"]
+[BlackFideId "1503014"]
+[WhiteElo "2737"]
+[BlackElo "2818"]
+[WhiteTeam "USA"]
+[BlackTeam "NOR"]
+[WhiteClock "0:04:15"]
+[BlackClock "0:04:45"]
+[Variant "Standard"]
+
+1. d4 { [%eval 0.24] } 1... Nf6 { [%eval 0.29] } 2. c4 { [%eval 0.32] } 2... e6
+{ [%eval 0.32] } 3. Nc3 { [%eval 0.16] } 3... Bb4 { [%eval 0.17] } 4. Qc2
+{ [%eval 0.21] } 4... d5 { [%eval 0.18] } 5. a3 { [%eval 0.08] } 5... Bxc3+
+{ [%eval 0.1] } 6. Qxc3 { [%eval 0.1] } 6... Ne4 { [%eval 0.35] } 7. Qc2
+{ [%eval 0.38] } 7... c5 { [%eval 0.33] } 8. dxc5 { [%eval 0.22] } 8... Nc6
+{ [%eval 0.18] } 9. Nf3 { [%eval 0.17] } 9... Qa5+ { [%eval 0.28] } 10. Bd2
+{ [%eval 0.21] } 10... Qxc5 { [%eval 0.21] } 11. e3 { [%eval 0.25] } 11... Nxd2
+{ [%eval 0.25] } 12. Nxd2 { [%eval 0.21] } 12... dxc4 { [%eval 0.21] } 13. Bxc4
+{ [%eval 0.25] } 13... O-O { [%eval 0.23] } 14. Rc1 { [%eval 0.24] } 14... Rd8
+{ [%eval 0.2] } 15. O-O { [%eval 0.13] } 15... Bd7 { [%eval 0.2] } 16. b4
+{ [%eval 0.2] } 16... Qe7 { [%eval 0.17] } 17. Qb2 { [%eval 0.12] } 17... Be8
+{ [%eval 0.23] } 18. Be2 { [%eval 0.2] } 18... Rac8 { [%eval 0.21] } 19. Rfd1
+{ [%eval 0.16] } 19... h6 { [%eval 0.26] } 20. h3 { [%eval 0.15] } 20... b6
+{ [%eval 0.3] } 21. Nf3 { [%eval 0.02] } 21... Rxd1+ { [%eval 0.02] } 22. Bxd1
+{ [%eval -0.0] } 22... Qb7 { [%eval 0.0] } 23. Rc4 { [%eval -0.0] } 23... Ne7
+{ [%eval 0.0] } 24. Rg4 { [%eval -0.0] } 24... Ng6 { [%eval 0.0] } 25. Bc2
+{ [%eval 0.04] } 25... Qc7 { [%eval 0.05] } 26. Bxg6 { [%eval 0.06] } 26...
+Qc1+ { [%eval 0.14] } 27. Qxc1 { [%eval 0.07] } 27... Rxc1+ { [%eval 0.04] }
+28. Kh2 { [%eval 0.08] } 28... fxg6 { [%eval 0.06] } 29. Ne5 { [%eval 0.06] }
+29... g5 { [%eval 0.04] } 30. Rc4 { [%eval 0.05] } 30... Rxc4 { [%eval 0.05] }
+31. Nxc4 { [%eval 0.08] } 31... Kf8 { [%eval 0.06] } 32. Kg3 { [%eval -0.0] }
+32... Ke7 { [%eval 0.0] } 33. f4 { [%eval -0.0] } 33... Bb5 { [%eval 0.0] } 34.
+Nd2 { [%eval -0.0] } 34... gxf4+ { [%eval 0.0] } 35. Kxf4 { [%eval -0.0] }
+35... Kd6 { [%eval 0.0] } 36. Ne4+ { [%eval -0.16] } 36... Kc6
+{ [%eval -0.09] } 37. Nc3 { [%eval -0.09] } 37... Bf1 { [%eval -0.08] } 38. Kf3
+{ [%eval -0.08] } 38... Kd6 { [%eval -0.03] } 39. h4 { [%eval -0.08] } 39...
+Ke5 { [%eval 0.0] } 40. g3 { [%eval -0.0] } 40... Ba6 { [%eval 0.0] } 41. Kf2
+{ [%eval -0.0] } 41... Bb7 { [%eval 0.0] } 42. Ke2 { [%eval -0.0] } 42... Bc6
+{ [%eval 0.0] } 43. Kf2 { [%eval -0.0] } 43... Kf5 { [%eval 0.0] } 44. Ke2
+{ [%eval -0.0] } 44... Kg4 { [%eval 0.0] } 45. Kf2 { [%eval -0.0] } 45... Kf5
+{ [%eval 0.0] } 1/2-1/2
+
+[Event "Semifinals & Title Match"]
+[Site "https://www.chess.com"]
+[Date "2023.12.16"]
+[Round "2.2.4"]
+[White "Carlsen, Magnus"]
+[Black "So, Wesley"]
+[Result "1-0"]
+[Board "1"]
+[TimeControl "900+3"]
+[WhiteFideId "1503014"]
+[BlackFideId "5202213"]
+[WhiteElo "2818"]
+[BlackElo "2737"]
+[WhiteTeam "NOR"]
+[BlackTeam "USA"]
+[WhiteClock "0:00:16"]
+[BlackClock "0:02:15"]
+[Variant "Standard"]
+
+1. d4 { [%eval 0.24] } 1... Nf6 { [%eval 0.29] } 2. c4 { [%eval 0.32] } 2... e6
+{ [%eval 0.32] } 3. Nf3 { [%eval 0.2] } 3... d5 { [%eval 0.19] } 4. Nc3
+{ [%eval 0.2] } 4... c5 { [%eval 0.28] } 5. cxd5 { [%eval 0.33] } 5... cxd4
+{ [%eval 0.21] } 6. Qxd4 { [%eval 0.25] } 6... exd5 { [%eval 0.17] } 7. e4
+{ [%eval 0.18] } 7... dxe4 { [%eval 0.27] } 8. Qxd8+ { [%eval 0.18] } 8... Kxd8
+{ [%eval 0.27] } 9. Ng5 { [%eval 0.26] } 9... Be6 { [%eval 0.14] } 10. Bd2
+{ [%eval 0.1] } 10... Nbd7 { [%eval 0.23] } 11. Ncxe4 { [%eval 0.15] } 11...
+Nxe4 { [%eval 0.14] } 12. Nxe4 { [%eval 0.09] } 12... h6 { [%eval 0.54] } 13.
+Bc3 { [%eval 0.36] } 13... Rc8 { [%eval 0.37] } 14. Bd3 { [%eval 0.35] } 14...
+f6 { [%eval 0.42] } 15. O-O { [%eval 0.29] } 15... Ke8 { [%eval 0.27] } 16. Be2
+{ [%eval 0.12] } 16... Kf7 { [%eval 0.24] } 17. f4 { [%eval 0.21] } 17... Bc5+
+{ [%eval 1.08] } 18. Nxc5 { [%eval 1.01] } 18... Rxc5 { [%eval 1.2] } 19. Rad1
+{ [%eval 0.46] } 19... Nb6 { [%eval 0.38] } 20. Bd4 { [%eval 0.22] } 20... Ra5
+{ [%eval 0.88] } 21. b4 { [%eval 0.66] } 21... Rd5 { [%eval 0.73] } 22. Bf3
+{ [%eval 0.62] } 22... Rb5 { [%eval 3.07] } 23. Bc5 { [%eval 3.22] } 23... Na4
+{ [%eval 2.96] } 24. Be2 { [%eval 3.24] } 24... Rxc5 { [%eval 3.49] } 25. bxc5
+{ [%eval 3.53] } 25... Nc3 { [%eval 3.28] } 26. Bh5+ { [%eval 3.22] } 26... g6
+{ [%eval 3.55] } 27. Rd3 { [%eval 3.27] } 27... Bc4 { [%eval 4.26] } 28. Rd7+
+{ [%eval 4.22] } 28... Ke6 { [%eval 4.31] } 29. Rd6+ { [%eval 4.32] } 29... Kf7
+{ [%eval 4.33] } 30. Rc1 { [%eval 4.54] } 30... Ne4 { [%eval 5.42] } 31. Rd4
+{ [%eval 4.07] } 1-0
+
