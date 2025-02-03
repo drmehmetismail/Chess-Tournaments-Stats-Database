@@ -1,0 +1,13 @@
+[Event "Unknown"]
+[Site "Unknown"]
+[Date "2024.12.01"]
+[Round "?"]
+[White "Ding"]
+[Black "Gukesh D"]
+[Result "1/2-1/2"]
+[EngineName "Stockfish dev-20240910-69955b0c-asn"]
+[EngineDetails "main analysis: 28x2.4GHz Broadwell-EP, multi-PV search: 18x2.2GHz Broadwell-EP"]
+[MoveSource "Lichess"]
+[MoveSourceURL "https://lichess.org/"]
+
+1.d4 { [%eval 0.13] } Nf6 { [%eval 0.18] } 2.Bf4 { [%eval 0.0] } d5 { [%eval 0.0] } 3.e3 { [%eval -0.01] } e6 { [%eval -0.01] } 4.Nf3 { [%eval -0.1] } c5 5.c3 { [%eval 0.0] } Bd6 { [%eval 0.02] } 6.Bb5+ { [%eval 0.05] } Nc6 { [%eval 0.0] } 7.Bxc6+ bxc6 { [%eval 0.0] } 8.Bxd6 { [%eval 0.0] } Qxd6 { [%eval 0.0] } 9.Qa4 { [%eval 0.0] } O-O { [%eval 0.0] } 10.Qa3 Ne4 11.Nfd2 e5 12.Nxe4 dxe4 13.Qxc5 Qg6 14.Nd2 Qxg2 { [%eval 0.0] } 15.O-O-O { [%eval 0.0] } Qxf2 { [%eval 0.0] } 16.dxe5 { [%eval 0.0] } Rb8 { [%eval 0.0] } 17.Nc4 { [%eval 0.0] } Be6 { [%eval 0.03] } 18.Rd2 { [%eval 0.0] } Qf3 { [%eval 0.0] } 19.Re1 { [%eval 0.0] } Bxc4 { [%eval 0.0] } 20.Qxc4 { [%eval 0.0] } Qf5 { [%eval 0.09] } 21.Qxc6 { [%eval 0.08] } Qxe5 { [%eval 0.14] } 22.Qd5 { [%eval 0.13] } Qe7 { [%eval 0.11] } 23.Qd6 { [%eval 0.07] } Qg5 { [%eval 0.19] } 24.Qd5 { [%eval 0.1] } Qe7 { [%eval 0.11] } 25.Qd6 { [%eval 0.08] } Qg5 { [%eval 0.08] } 26.Qd5 { [%eval 0.08] } Qh4 { [%eval 0.27] } 27.Red1 { [%eval 0.12] } g6 { [%eval 0.21] } 28.Qe5 { [%eval 0.0] } Rbe8 { [%eval 0.06] } 29.Qg3 { [%eval 0.0] } Qh5 { [%eval 0.44] } 30.Qf4 { [%eval 0.26] } Qa5 { [%eval 0.58] } 31.a3 { [%eval 0.23] } Qb5 { [%eval 0.28] } 32.Rd4 { [%eval 0.21] } Qe2 { [%eval 0.26] } 33.R1d2 { [%eval 0.16] } Qf3 { [%eval 0.37] } 34.Kc2 { [%eval 0.0] } Qxf4 { [%eval 0.0] } 35.exf4 { [%eval 0.0] } f5 { [%eval 0.0] } 36.h4 { [%eval 0.0] } e3 { [%eval 0.0] } 37.Re2 { [%eval 0.0] } Re7 { [%eval 0.0] } 38.Kd3 Rfe8 { [%eval 0.0] } 39.h5 { [%eval 0.0] } gxh5 { [%eval 0.0] } 40.Rd5 { [%eval 0.0] } h4 { [%eval 0.0] } 41.Rxf5 { [%eval 0.0] } Rd7+ { [%eval 0.0] } 42.Kc2 { [%eval 0.0] } Kg7 { [%eval 0.0] } 43.Rg2+ { [%eval 0.0] } Kh8 { [%eval 0.0] } 44.Re2 { [%eval 0.0] } Kg7 { [%eval 0.0] } 45.Rg2+ { [%eval 0.0] } Kh8 { [%eval 0.0] } 46.Re2 { [%eval 0.0] } Kg7 1/2-1/2

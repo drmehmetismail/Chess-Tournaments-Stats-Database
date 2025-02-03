@@ -1,0 +1,13 @@
+[Event "Unknown"]
+[Site "Unknown"]
+[Date "2024.12.05"]
+[Round "?"]
+[White "Gukesh D"]
+[Black "Ding"]
+[Result "1/2-1/2"]
+[EngineName "Stockfish dev-20240910-69955b0c-asn"]
+[EngineDetails "main analysis: 28x2.4GHz Broadwell-EP, multi-PV search: 18x2.2GHz Broadwell-EP"]
+[MoveSource "Lichess"]
+[MoveSourceURL "https://lichess.org/"]
+
+1.d4 { [%eval 0.13] } Nf6 { [%eval 0.18] } 2.c4 { [%eval 0.12] } e6 { [%eval 0.13] } 3.g3 { [%eval 0.12] } Bb4+ { [%eval 0.22] } 4.Bd2 { [%eval 0.12] } Be7 { [%eval 0.08] } 5.Bg2 { [%eval 0.07] } d5 { [%eval 0.08] } 6.Nf3 { [%eval 0.09] } O-O 7.O-O { [%eval 0.07] } c6 { [%eval 0.1] } 8.Qc2 { [%eval 0.05] } Nbd7 { [%eval 0.12] } 9.Rd1 { [%eval 0.09] } b6 { [%eval 0.07] } 10.Bc3 { [%eval 0.0] } Bb7 { [%eval 0.02] } 11.Nbd2 { [%eval 0.02] } Qc7 { [%eval 0.05] } 12.Rac1 { [%eval 0.0] } Rfd8 { [%eval 0.0] } 13.b4 { [%eval 0.0] } c5 { [%eval 0.02] } 14.bxc5 { [%eval 0.0] } bxc5 { [%eval 0.0] } 15.Qb2 { [%eval 0.0] } Nb6 { [%eval 0.0] } 16.Ba5 { [%eval 0.0] } dxc4 { [%eval 0.0] } 17.Nxc4 { [%eval 0.0] } Bxf3 { [%eval 0.22] } 18.Bxb6 { [%eval 0.18] } axb6 { [%eval 0.18] } 19.Bxf3 { [%eval 0.16] } Ra6 { [%eval 0.29] } 20.Qb5 { [%eval 0.0] } Rxa2 { [%eval 0.0] } 21.Nxb6 { [%eval 0.0] } Qa7 { [%eval 0.0] } 22.Qb1 { [%eval 0.0] } Rb8 { [%eval 0.0] } 23.dxc5 { [%eval 0.0] } Ra6 { [%eval 0.0] } 24.Qb5 { [%eval 0.0] } Bxc5 { [%eval 0.0] } 25.Qxc5 { [%eval 0.0] } Qxb6 { [%eval 0.0] } 26.Qxb6 Raxb6 { [%eval -0.03] } 27.Rc6 { [%eval -0.06] } Rxc6 { [%eval -0.04] } 28.Bxc6 { [%eval -0.03] } g5 { [%eval -0.03] } 29.Kg2 { [%eval -0.02] } Rb2 { [%eval 0.0] } 30.Kf1 { [%eval 0.0] } Kg7 { [%eval 0.0] } 31.h3 { [%eval 0.0] } h5 { [%eval 0.0] } 32.Ra1 { [%eval 0.0] } Rc2 { [%eval 0.0] } 33.Bb5 { [%eval 0.0] } Rc5 { [%eval 0.0] } 34.Bd3 { [%eval 0.0] } Nd7 { [%eval 0.0] } 35.f4 { [%eval 0.0] } gxf4 36.gxf4 { [%eval 0.0] } Rc3 { [%eval 0.0] } 37.Kf2 { [%eval 0.0] } Nc5 { [%eval 0.0] } 38.Ke3 { [%eval 0.0] } Nxd3 { [%eval 0.0] } 39.exd3 { [%eval 0.0] } Rc2 { [%eval 0.0] } 40.Kf3 { [%eval 0.0] } Rd2 { [%eval 0.0] } 41.Ra3 { [%eval 0.0] } Kg6 { [%eval 0.0] } 42.Rb3 { [%eval 0.0] } f6 { [%eval 0.0] } 43.Ra3 { [%eval 0.0] } Kf5 { [%eval 0.0] } 44.Ra5+ { [%eval 0.0] } e5 { [%eval 0.0] } 45.fxe5 { [%eval 0.0] } Rxd3+ { [%eval 0.0] } 46.Ke2 { [%eval 0.0] } Rxh3 { [%eval 0.0] } 47.exf6+ { [%eval 0.0] } Kxf6 { [%eval 0.0] } 48.Kf2 { [%eval 0.0] } h4 { [%eval 0.0] } 49.Kg2 Rg3+ { [%eval 0.0] } 50.Kh2 { [%eval 0.0] } Kg6 { [%eval 0.0] } 51.Rb5 { [%eval 0.0] } Rg5 { [%eval 0.0] } 52.Rxg5+ { [%eval 0.0] } Kxg5 { [%eval 0.0] } 53.Kh3 { [%eval 0.0] } Kf6 { [%eval 0.0] } 54.Kxh4 { [%eval 0.0] } Ke5 1/2-1/2

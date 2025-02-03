@@ -1,0 +1,13 @@
+[Event "Unknown"]
+[Site "Unknown"]
+[Date "2024.11.26"]
+[Round "?"]
+[White "Ding"]
+[Black "Gukesh D"]
+[Result "1/2-1/2"]
+[EngineName "Stockfish dev-20240910-69955b0c-asn"]
+[EngineDetails "main analysis: 28x2.4GHz Broadwell-EP, multi-PV search: 18x2.2GHz Broadwell-EP"]
+[MoveSource "Lichess"]
+[MoveSourceURL "https://lichess.org/"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.Nc3 a6 6.a4 d6 7.O-O h6 8.Be3 Be6 9.a5 Bxc4 10.dxc4 O-O 11.Bxc5 dxc5 12.b3 { [%eval 0.19] } Qxd1 { [%eval 0.24] } 13.Rfxd1 { [%eval 0.2] } Rad8 { [%eval 0.1] } 14.Rdc1 { [%eval 0.0] } Nd4 { [%eval 0.0] } 15.Ne1 { [%eval 0.06] } Rd6 { [%eval 0.11] } 16.Kf1 { [%eval 0.0] } g6 { [%eval 0.06] } 17.Rd1 { [%eval 0.0] } Rfd8 { [%eval 0.2] } 18.f3 { [%eval 0.12] } Kg7 { [%eval 0.07] } 19.Kf2 { [%eval 0.0] } h5 { [%eval 0.09] } 20.Ne2 { [%eval 0.0] } Nc6 { [%eval 0.0] } 21.Nc3 { [%eval 0.0] } Nd4 { [%eval 0.24] } 22.Ne2 { [%eval 0.0] } Nc6 23.Nc3 { [%eval 0.0] } Nd4 1/2-1/2

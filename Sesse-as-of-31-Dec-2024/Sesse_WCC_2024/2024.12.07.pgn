@@ -1,0 +1,13 @@
+[Event "Unknown"]
+[Site "Unknown"]
+[Date "2024.12.07"]
+[Round "?"]
+[White "Ding"]
+[Black "Gukesh D"]
+[Result "1/2-1/2"]
+[EngineName "Stockfish dev-20240910-69955b0c-asn"]
+[EngineDetails "main analysis: 28x2.4GHz Broadwell-EP, multi-PV search: 18x2.2GHz Broadwell-EP"]
+[MoveSource "Lichess"]
+[MoveSourceURL "https://lichess.org/"]
+
+1.d4 { [%eval 0.13] } Nf6 { [%eval 0.18] } 2.Nf3 { [%eval 0.17] } d5 { [%eval 0.08] } 3.Bf4 { [%eval 0.07] } e6 { [%eval 0.16] } 4.e3 { [%eval 0.09] } c5 { [%eval 0.08] } 5.Be2 { [%eval 0.02] } Bd6 { [%eval 0.16] } 6.dxc5 { [%eval 0.12] } Bxc5 { [%eval 0.11] } 7.c4 { [%eval 0.04] } O-O { [%eval 0.0] } 8.O-O { [%eval 0.04] } Nc6 { [%eval 0.19] } 9.Nc3 { [%eval 0.22] } dxc4 { [%eval 0.17] } 10.Bxc4 { [%eval 0.11] } Nh5 { [%eval 0.01] } 11.Bg5 { [%eval 0.0] } Be7 { [%eval 0.06] } 12.Ne4 { [%eval 0.0] } Nf6 { [%eval 0.06] } 13.Nxf6+ { [%eval 0.05] } Bxf6 { [%eval 0.05] } 14.Qxd8 { [%eval 0.0] } Rxd8 { [%eval 0.04] } 15.Bxf6 { [%eval 0.02] } gxf6 { [%eval 0.02] } 16.Rfd1 { [%eval 0.03] } Bd7 { [%eval 0.04] } 17.Rac1 { [%eval 0.01] } Be8 { [%eval 0.03] } 18.Rxd8 { [%eval 0.02] } Rxd8 { [%eval 0.01] } 19.Kf1 { [%eval 0.0] } Kg7 { [%eval 0.01] } 20.a3 { [%eval 0.0] } f5 { [%eval 0.0] } 21.Ke1 { [%eval 0.0] } Kf6 { [%eval 0.0] } 22.Be2 { [%eval 0.0] } Ne7 { [%eval 0.0] } 23.g3 { [%eval 0.0] } Rc8 { [%eval 0.0] } 24.Rxc8 { [%eval 0.0] } Nxc8 { [%eval 0.0] } 25.Nd2 { [%eval 0.0] } Nd6 { [%eval 0.0] } 26.Nc4 { [%eval 0.0] } Nxc4 { [%eval 0.0] } 27.Bxc4 { [%eval 0.0] } Bc6 { [%eval 0.0] } 28.f4 { [%eval 0.0] } b6 29.Kd2 { [%eval 0.0] } Ke7 30.Kc3 { [%eval 0.0] } Kd6 { [%eval 0.0] } 31.b4 { [%eval 0.0] } f6 { [%eval 0.0] } 32.Kd4 { [%eval 0.0] } h6 { [%eval 0.0] } 33.Bb3 { [%eval 0.0] } Bb7 { [%eval 0.0] } 34.Bc4 { [%eval 0.0] } Bc6 { [%eval 0.0] } 35.Bb3 { [%eval 0.0] } Bb7 { [%eval 0.0] } 36.Bc4 { [%eval 0.0] } Bc6 1/2-1/2
