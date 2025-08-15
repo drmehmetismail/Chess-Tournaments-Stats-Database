@@ -14,3 +14,5 @@ The Sesse-as-of-31-Dec-2024 folder contains all games and moves analyzed by Sess
 Use your favorite chess GUI to import these games and explore the variations. To access all games with all variations, including PV and refutation lines, visit:
 https://huggingface.co/datasets/drmehmetismail/Chess-Super-Tournaments-Analyzed
 Note: Each game file may become significantly large in this case.
+
+Data and analyses are provided “as is”. Rarely, a move may register as a “negative” mistake due to e.g. evaluation jumps between mate and non-mate positions by Stockfish, making acpl negative. I leave this uncorrected, as acpl is not a reliable metric even without such issues, and should not be used to as an accuracy measure.
