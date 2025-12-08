@@ -1,0 +1,3 @@
+Player,avg_gi,avg_missed_points,avg_acpl,total_game_count,Points,gi_median,missed_points_median,Elo,TPR,total_moves,White_games,Black_games,acpl_median,gi_std,missed_points_std,acpl_std,avg_gi_raw,avg_missed_points_white,avg_missed_points_black,avg_gi_white,avg_gi_black,white_result_sum,black_result_sum,total_missed_points_sum,gi_var,missed_points_var,acpl_var
+Yagiz Kaan Erdogmus,166.9,0.08,4.76,6,3.5,166.1,0.06,2658,2792,173,3,3,4.32,2.87,0.06,2.82,0.5,0.11,0.05,167.9,165.9,2.0,1.5,0.48,8.24,0.0,7.93
+Maxime Vachier-Lagrave,162.5,0.15,5.86,6,2.5,166.1,0.04,2734,2600,172,3,3,3.78,8.62,0.26,5.79,0.26,0.03,0.27,166.2,158.7,1.5,1.0,0.91,74.23,0.07,33.58
