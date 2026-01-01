@@ -1,5 +1,7 @@
 # Chess Tournaments Analyses with Stockfish
 
+Visit https://mehmetmars7.github.io/ChessDBviewer/ for the most up-to-date dataset.
+
 To replicate and calculate game intelligence (GI) score, missed points, and many other metrics, use the scripts at 
 https://github.com/drmehmetismail/Game-Intelligence-for-Chess
 
